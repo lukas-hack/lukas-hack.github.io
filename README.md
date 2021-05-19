@@ -8,7 +8,7 @@
 I am a PhD student at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). \
 My main research fields are macroeconomics and public economics.
 
-<font color="blue"><i><small>&diams; Click below to download CV.</small></i></font> 
+<font color="gray"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV.pdf)
 
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
