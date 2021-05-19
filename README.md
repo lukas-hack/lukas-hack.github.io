@@ -1,7 +1,7 @@
 {::options parse_block_html="true" /}
 
 
-<font color="scarlet"><h1> THIS WEBSITE IS IN CONSTRUCTION! </h1></font>  
+<h1><font color="scarlet"> THIS WEBSITE IS IN CONSTRUCTION! </font></h1>  
 
 ### Welcome!
 
