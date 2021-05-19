@@ -5,7 +5,7 @@
 
 ### Welcome!
 
-I am a PhD student at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). \
+I am a PhD student at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
 My main research fields are macroeconomics and public economics.
 
 <font color="gray"><i><small>&diams; Click below to download CV.</small></i></font> 
