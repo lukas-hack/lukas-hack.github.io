@@ -1,5 +1,9 @@
 {::options parse_block_html="true" /}
 
+### THIS WEBSITE IS IN CONSTRUCTION!
+
+<h1> THIS WEBSITE IS IN CONSTRUCTION! </h1>
+
 ### Welcome!
 
 I am a PhD student at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). \
@@ -7,8 +11,6 @@ My main research fields are macroeconomics and public economics.
 
 <font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV.pdf)
-
-### THIS WEBSITE IS IN CONSTRUCTION!
 
 <br>
 
