@@ -22,7 +22,7 @@ My main research fields are macroeconomics and public economics.
   
   | **Abstract**          |
   |:---------------------------|
-  | Some abstract. |
+  | Some abstract. Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract. |
   
  </details>
  <a href="https://" target="_blank"><u>[Paper (PDF)]</u></a> (Prelim. draft available upon request)
