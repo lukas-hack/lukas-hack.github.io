@@ -11,6 +11,7 @@ My main research fields are macroeconomics and public economics.
 ### THIS WEBSITE IS IN CONSTRUCTION!
 
 <br>
+
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
 ### Working Papers:
@@ -45,6 +46,7 @@ My main research fields are macroeconomics and public economics.
   <a href="https://sites.google.com/site/matthias1meier1/" target="_blank"><u>[Publisher (Open Access)]</u></a> / <a href="https://lukas-hack.github.io/papers/SomePaper2.pdf" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
+
 <br>
 
 ### Select Work in Progress:
@@ -56,6 +58,4 @@ My main research fields are macroeconomics and public economics.
  </details>
  
  ----
-
-<br>
  
