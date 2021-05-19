@@ -51,10 +51,11 @@ My main research fields are macroeconomics and public economics.
 <details>
   <summary markdown="span"><font color="blue">Some ongoing project</font>
   
-  (with [Matthias Meier](https://sites.google.com/site/matthias1meier1/)</summary>
+  (with [Matthias Meier](https://sites.google.com/site/matthias1meier1/))</summary>
   
  </details>
  
  ----
-  <br>
+
+<br>
  
