@@ -11,7 +11,7 @@ My main research fields are macroeconomics and public economics.
 <font color="gray"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV.pdf)
 
-<font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
+<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
 ### Working Papers:
 <details>
