@@ -9,9 +9,7 @@ I am a PhD student at the <a href="https://www.vwl.uni-mannheim.de/en/" target="
 My main research fields are macroeconomics and public economics.
 
 <font color="gray"><i><small>&diams; Click below to download CV.</small></i></font> 
-### [Curriculum Vitae (PDF)](Hack_CV.pdf)
-
-### <a href="https://lukas-hack.github.io/Hack_CV.pdf" target="_blank"><u>[Curriculum Vitae (PDF)]</u></a>
+### <a href="https://lukas-hack.github.io/Hack_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
 
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
