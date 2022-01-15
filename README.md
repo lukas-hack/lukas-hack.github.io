@@ -20,7 +20,7 @@ My main research fields are macroeconomics and public economics.
 <details>
   <summary markdown="span"><font color="blue">Monetary Policy Counterfactuals: Time Series Evidence on the Fiscal Multiplier</font>
     
-  (with <a href="" target="_blank">Klodiana Istrefi</a> and <a href="matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
+  (with <a href="" target="_blank">Klodiana Istrefi</a> and <a href="https://www.matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
