@@ -11,6 +11,8 @@ My main research fields are macroeconomics and public economics.
 <font color="gray"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](Hack_CV.pdf)
 
+### <a href="https://lukas-hack.github.io/Hack_CV.pdf" target="_blank"><u>[Curriculum Vitae (PDF)]</u></a>
+
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
 
