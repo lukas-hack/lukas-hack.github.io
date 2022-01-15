@@ -9,24 +9,25 @@ I am a PhD student at the <a href="https://www.vwl.uni-mannheim.de/en/" target="
 My main research fields are macroeconomics and public economics.
 
 <font color="gray"><i><small>&diams; Click below to download CV.</small></i></font> 
-### [Curriculum Vitae (PDF)](CV.pdf)
+### [Curriculum Vitae (PDF)](Hack_CV.pdf)
 
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
-<!--
-### Working Papers:
+
+### Work in progress:
 <details>
-  <summary markdown="span"><font color="blue">WP 1</font>
+  <summary markdown="span"><font color="blue">Monetary Policy Counterfactuals: Time Series Evidence on the Fiscal Multiplier</font>
     
-  (with <a href="nolink" target="_blank">Someone</a>)</summary>
+  (with <a href="" target="_blank">Klodiana Istrefi</a> and <a href="matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | Some abstract. Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract.Some abstract. |
+  | How does systematic monetary policy shape the effects of macroeconomic shocks? We propose a general time series approach to construct monetary policy counterfactuals, which are robust to the Lucas critique. To operationalize this approach, we leverage historical variation in systematic US monetary policy. Identification is achieved through a novel FOMC rotation instrument. Using our approach, we find that the fiscal multiplier depends strongly and significantly on systematic monetary policy. The cumulative fiscal spending multiplier after three years increases from close to 0 to 2 in a counterfactual where monetary policy does not respond to fiscal shocks. |
   
  </details>
- <a href="https://www.dropbox.com/s/83xwsadbrh63uqg/SomePaper2.pdf?dl=0" target="_blank"><u>[Paper (PDF)]</u></a> (Prelim. draft available upon request)
  
+<!--
+ <a href="https://www.dropbox.com/s/83xwsadbrh63uqg/SomePaper2.pdf?dl=0" target="_blank"><u>[Paper (PDF)]</u></a> (Prelim. draft available upon request) 
 ----
 
 <br>
