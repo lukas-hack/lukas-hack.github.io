@@ -19,7 +19,7 @@ My main research fields are macroeconomics and public economics.
   
   | **Abstract**          |
   |:---------------------------|
-  | <p align=“justify“>How does systematic monetary policy shape the effects of macroeconomic shocks? We propose a general time series approach to construct monetary policy counterfactuals, which are robust to the Lucas critique. To operationalize this approach, we leverage historical variation in systematic US monetary policy. Identification is achieved through a novel FOMC rotation instrument. Using our approach, we find that the fiscal multiplier depends strongly and significantly on systematic monetary policy. The cumulative fiscal spending multiplier after three years increases from close to 0 to 2 in a counterfactual where monetary policy does not respond to fiscal shocks.</p> |
+  <p align=“justify“>How does systematic monetary policy shape the effects of macroeconomic shocks? We propose a general time series approach to construct monetary policy counterfactuals, which are robust to the Lucas critique. To operationalize this approach, we leverage historical variation in systematic US monetary policy. Identification is achieved through a novel FOMC rotation instrument. Using our approach, we find that the fiscal multiplier depends strongly and significantly on systematic monetary policy. The cumulative fiscal spending multiplier after three years increases from close to 0 to 2 in a counterfactual where monetary policy does not respond to fiscal shocks.</p> 
   
  </details>
  
