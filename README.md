@@ -13,13 +13,14 @@ My main research fields are macroeconomics and public economics.
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Work in progress:
 <details>
-  <summary markdown="span"><font color="blue">Monetary Policy Counterfactuals: Time Series Evidence on the Fiscal Multiplier</font>
+  <summary markdown="span"><font color="blue">Systematic Monetary Policy and the Effects of Government Spending</font>
     
   (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | How does systematic monetary policy shape the effects of macroeconomic shocks? We propose a general time series approach to construct monetary policy counterfactuals, which are robust to the Lucas critique. To operationalize this approach, we leverage historical variation in systematic US monetary policy. Identification is achieved through a novel FOMC rotation instrument. Using our approach, we find that the fiscal multiplier depends strongly and significantly on systematic monetary policy. The cumulative fiscal spending multiplier after three years increases from close to 0 to 2 in a counterfactual where monetary policy does not respond to fiscal shocks. |
+  | This paper studies how systematic monetary policy shapes the effects of government spending shocks in the U.S. To identify the role of systematic monetary policy, we use a novel identification design, which combines a narrative account of the FOMC members’ policy preferences with an instrument that exploits the mechanical rotation of voting rights on the FOMC. We document quantitatively significant real effects for systematic monetary policy. On average, the FOMC increases the federal funds rate, counteracting the effect of expansionary fiscal spending shocks. However, a more dovish
+FOMC is significantly less aggressive in response to these shocks, thus accommodating a higher GDP growth and a larger fiscal multiplier. Under the counterfactual scenario where monetary policy is unresponsive to the fiscal shock, the multiplier in a three year horizon rises from zero to two. |
   
  </details>
  
