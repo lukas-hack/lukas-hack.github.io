@@ -19,7 +19,7 @@ My main research fields are macroeconomics and public economics.
   
   | **Abstract**          |
   |:---------------------------|
-  | This paper studies how systematic monetary policy shapes the effects of government spending shocks in the U.S. To identify the role of systematic monetary policy, we use a novel identification design, which combines a narrative account of the FOMC members’ policy preferences with an instrument that exploits the mechanical rotation of voting rights on the FOMC. We document quantitatively significant real effects for systematic monetary policy. On average, the FOMC increases the federal funds rate, counteracting the effect of expansionary fiscal spending shocks. However, a more dovish FOMC is significantly less aggressive in response to these shocks, thus accommodating a higher GDP growth and a larger fiscal multiplier. Under the counterfactual scenario where monetary policy is unresponsive to the fiscal shock, the multiplier in a three year horizon rises from zero to two. |
+  | We study how systematic monetary policy shapes the effects of fiscal spending shocks in the U.S. To identify the effects of systematic monetary policy, we use a novel identification design, which combines a narrative account of the FOMC members' policy preferences with an instrument that exploits the mechanical rotation of voting rights in the FOMC. We find that the GDP response to fiscal spending shocks strongly depends on systematic monetary policy. The fiscal spending multiplier is substantially above one if the FOMC is dovish, whereas the multiplier is indistinguishable from zero under a hawkish FOMC. |
   
  </details>
  
