@@ -24,7 +24,6 @@ My main research fields are macroeconomics and public economics.
  </details>
  <a href="https://lukas-hack.github.io/HIM_SysMP.pdf" target="_blank"><u>[Ungated]</u></a>
  
-<br>
  
 ### Work in progress:
  
