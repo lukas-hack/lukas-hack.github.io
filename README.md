@@ -23,7 +23,7 @@ My main research fields are macroeconomics and public economics.
   
  </details>
  
- ### Work in progress:
+### Work in progress:
  
 <details>
   <summary markdown="span"><font color="blue">Asymmetric Transmission of Monetary Policy in a	Currency Union with Heterogeneous Households</font>
