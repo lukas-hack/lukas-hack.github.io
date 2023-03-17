@@ -11,18 +11,30 @@ My main research fields are macroeconomics and public economics.
 ### <a href="https://lukas-hack.github.io/Hack_CV.pdf" target="_blank">Curriculum Vitae</a>
 
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
-### Work in progress:
+### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">Systematic Monetary Policy and the Effects of Government Spending</font>
+  <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font>
     
   (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | We study how systematic monetary policy shapes the effects of fiscal spending shocks in the U.S. To identify the effects of systematic monetary policy, we use a novel identification design, which combines a narrative account of the FOMC members' policy preferences with an instrument that exploits the mechanical rotation of voting rights in the FOMC. We find that the GDP response to fiscal spending shocks strongly depends on systematic monetary policy. The fiscal spending multiplier is substantially above one if the FOMC is dovish, whereas the multiplier is indistinguishable from zero under a hawkish FOMC. |
+  | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i)~a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the effects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
   
  </details>
  
+ ### Work in progress:
+ 
+<details>
+  <summary markdown="span"><font color="blue">Asymmetric Transmission of Monetary Policy in a	Currency Union with Heterogeneous Households</font>
+    
+  (with Hannes Twieling)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | working paper coming soon |
+  
+ </details>
 <!--
  <a href="https://www.dropbox.com/s/83xwsadbrh63uqg/SomePaper2.pdf?dl=0" target="_blank"><u>[Paper (PDF)]</u></a> (Prelim. draft available upon request) 
 ----
