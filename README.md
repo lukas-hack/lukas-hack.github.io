@@ -5,7 +5,7 @@
 
 ### Welcome!
 
-I am a PhD student at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
+I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. \
 My main research fields are macroeconomics and public economics.
 
 ### <a href="https://lukas-hack.github.io/Hack_CV.pdf" target="_blank">Curriculum Vitae</a>
