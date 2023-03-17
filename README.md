@@ -22,7 +22,7 @@ My main research fields are macroeconomics and public economics.
   | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i)~a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the effects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
   
  </details>
- <a href="https://lukas-hack.github.io/HIM_SysMP.pdf" target="_blank"><u>[Ungated]</u></a>
+  <a href="https://cepr.org/publications/dp17999" target="_blank"><u>[CEPR]</u></a> <a href="https://lukas-hack.github.io/HIM_SysMP.pdf" target="_blank"><u>[Ungated]</u></a>
  
  
 ### Work in progress:
