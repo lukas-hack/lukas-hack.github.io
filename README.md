@@ -28,7 +28,7 @@ My main research fields are macroeconomics and public economics.
 ### Work in progress:
  
 <details>
-  <summary markdown="span"><font color="blue">Asymmetric Transmission of Monetary Policy in a	Currency Union with Heterogeneous Households</font>
+  <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
     
   (with Hannes Twieling)</summary>
   
