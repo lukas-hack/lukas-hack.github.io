@@ -30,7 +30,7 @@ My main research fields are macroeconomics and public economics.
 <details>
   <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
     
-  (with Hannes Twieling, draft coming soon)</summary>
+  (with <a href="https://www.hannes-twieling.com/" target="_blank">Hannes Twieling</a>, draft coming soon)</summary>
   
   | **Abstract**          |
   |:---------------------------|
