@@ -5,8 +5,7 @@
 
 ### Welcome!
 
-I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> and a member of the <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center Transregio 224</a> (Bonn—Mannheim), Project C05. \
-My main research fields are macroeconomics, monetary economics and public economics.
+I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> and a member of the Bonn-Mannheim <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center Transregio 224</a> (Bonn—Mannheim), funded by the German Research Foundation (DFG). My main research fields are macroeconomics, monetary economics and public economics.
 
 ### <a href="https://lukas-hack.github.io/Hack_CV.pdf" target="_blank">Curriculum Vitae</a>
 
