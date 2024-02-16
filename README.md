@@ -36,7 +36,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
   | Under progressive taxation, inflation drives up tax rates if the schedule is not adjusted accordingly, leading to bracket creep effects. I propose a non-parametric decomposition of changes in tax rates to measure the empirical importance of bracket creep. Studying German administrative tax records, I show that bracket creep effects are of similar importance as discretionary tax changes. Bracket creep has decreased over time due to institutional changes, but the 2022 inflation surge led to a resurgence with sizeable bracket creep effects. Theoretically, I characterize the effects on labor supply and compute a theory-consistent measure of bracket creep -- the indexation gap -- that is used to discipline a New Keynesian model with incomplete markets. The model is used to study the propagation of inflationary shocks that partly propagate through bracket creep. |
   
  </details>
- <br>
+ <a> </a>
  
 ----
 
