@@ -27,6 +27,39 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
 ### Work in progress:
  
 <details>
+  <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font>
+    
+  (click for abstract; draft coming soon)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | Under progressive taxation, inflation drives up tax rates if the schedule is not adjusted accordingly, leading to bracket creep effects. I propose a non-parametric decomposition of changes in tax rates to measure the empirical importance of bracket creep. Studying German administrative tax records, I show that bracket creep effects are of similar importance as discretionary tax changes. Bracket creep has decreased over time due to institutional changes, but the 2022 inflation surge led to a resurgence with sizeable bracket creep effects. Theoretically, I characterize the effects on labor supply and compute a theory-consistent measure of bracket creep -- the indexation gap -- that is used to discipline a New Keynesian model with incomplete markets. The model is used to study the propagation of inflationary shocks that partly propagate through bracket creep. |
+  
+ </details>
+
+ <details>
+  <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font>
+    
+  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, click for abstract; draft coming soon)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We show that conventional identification strategies for monetary policy shocks yield contaminated shocks if systematic monetary policy varies over time. The contamination renders the (mis)identified shocks predictable by time variation in systematic monetary policy interacted with the macroeconomic variables to which monetary policy responds. Using a measure of US systematic monetary policy based on the historical composition of hawks and doves in the FOMC, we empirically confirm the prediction. We then propose a new series of monetary policy shocks that accounts for time variation in systematic monetary policy. Our new shocks have substantially stronger effects on inflation and output. |
+  
+ </details>
+
+ <details>
+  <summary markdown="span"><font color="blue">Managerial Decision-Making and Monetary Policy</font>
+    
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, draft coming soon)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | working paper coming soon |
+  
+ </details>
+
+ <details>
   <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
     
   (with <a href="https://www.hannes-twieling.com/" target="_blank">Hannes Twieling</a>, draft coming soon)</summary>
