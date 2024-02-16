@@ -25,7 +25,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
 ### Work in progress:
  
 <details>
-  <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font>
+  <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: <br> The Macroeconomic Effects of Bracket Creep</font>
     
   (click for abstract; draft coming soon)</summary>
   
