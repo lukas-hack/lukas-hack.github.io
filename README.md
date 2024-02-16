@@ -50,7 +50,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
   | We show that conventional identification strategies for monetary policy shocks yield contaminated shocks if systematic monetary policy varies over time. The contamination renders the (mis)identified shocks predictable by time variation in systematic monetary policy interacted with the macroeconomic variables to which monetary policy responds. Using a measure of US systematic monetary policy based on the historical composition of hawks and doves in the FOMC, we empirically confirm the prediction. We then propose a new series of monetary policy shocks that accounts for time variation in systematic monetary policy. Our new shocks have substantially stronger effects on inflation and output. |
   
 </details>
-<br>
+<a> </a>
 
 ----
 
@@ -64,7 +64,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
   | working paper coming soon |
   
 </details>
-<br>
+<a> </a>
 
 ----
 
