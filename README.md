@@ -43,7 +43,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
 <details>
   <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font>
     
-  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, draft coming soon)</summary>
+  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -57,7 +57,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
  <details>
   <summary markdown="span"><font color="blue">Managerial Decision-Making and Monetary Policy</font>
     
-  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, draft coming soon)</summary>
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -71,7 +71,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
  <details>
   <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
     
-  (with <a href="https://www.hannes-twieling.com/" target="_blank">Hannes Twieling</a>, draft coming soon)</summary>
+  (with <a href="https://www.hannes-twieling.com/" target="_blank">Hannes Twieling</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
