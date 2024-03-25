@@ -12,7 +12,8 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
 <details>
   <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font>
     
-  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, December 2023)</summary>
+  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, December 2023) <br />
+  <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
