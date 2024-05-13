@@ -31,6 +31,24 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
 
 ----
 
+<details>
+  <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font>
+    
+  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | Conventional strategies to identify monetary policy shocks rest on the implicit assumption that systematic monetary policy is constant over time. We formally show that these strategies do not isolate monetary policy shocks in an environment with time-varying systematic monetary policy. Instead, they are contaminated by systematic monetary policy and macroeconomic variables, leading to contamination bias in estimated impulse responses. Empirically, we show that Romer and Romer (2004) monetary policy shocks are indeed predictable by fluctuations in systematic monetary policy. Instead, we propose a new monetary policy shock that is orthogonal to systematic monetary policy. Our shock suggests U.S. monetary policy has shorter lags and stronger effects on inflation and output. |
+  
+</details>
+<a href="https://lukas-hack.github.io/files/sysmp/HIM_Shocks.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/sysmp/HIM_Shocks.txt" target="_blank"><u>[BibTex]</u></a>
+
+
+----
+
+
+
 ### Work in progress:
  
 <details>
@@ -45,20 +63,6 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
  </details>
  <a> </a>
  
-----
-
-<details>
-  <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font>
-    
-  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | We show that conventional identification strategies for monetary policy shocks yield contaminated shocks if systematic monetary policy varies over time. The contamination renders the (mis)identified shocks predictable by time variation in systematic monetary policy interacted with the macroeconomic variables to which monetary policy responds. Using a measure of US systematic monetary policy based on the historical composition of hawks and doves in the FOMC, we empirically confirm the prediction. We then propose a new series of monetary policy shocks that accounts for time variation in systematic monetary policy. Our new shocks have substantially stronger effects on inflation and output. |
-  
-</details>
-<a> </a>
-
 ----
 
  <details>
