@@ -34,7 +34,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
 <details>
   <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font>
     
-  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>)</summary>
+  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, May 2024)</summary>
   
   | **Abstract**          |
   |:---------------------------|
