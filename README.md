@@ -41,6 +41,7 @@ I am a Ph.D. candidate at the <a href="https://www.vwl.uni-mannheim.de/en/" targ
   | Conventional strategies to identify monetary policy shocks rest on the implicit assumption that systematic monetary policy is constant over time. We formally show that these strategies do not isolate monetary policy shocks in an environment with time-varying systematic monetary policy. Instead, they are contaminated by systematic monetary policy and macroeconomic variables, leading to contamination bias in estimated impulse responses. Empirically, we show that Romer and Romer (2004) monetary policy shocks are indeed predictable by fluctuations in systematic monetary policy. Instead, we propose a new monetary policy shock that is orthogonal to systematic monetary policy. Our shock suggests U.S. monetary policy has shorter lags and stronger effects on inflation and output. |
   
 </details>
+<a href="https://cepr.org/publications/dp19063" target="_blank"><u>[CEPR DP]</u></a> 
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>[Ungated]</u></a> 
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.txt" target="_blank"><u>[BibTex]</u></a>
 
