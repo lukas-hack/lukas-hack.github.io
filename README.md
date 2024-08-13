@@ -7,6 +7,11 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ### <a href="https://lukas-hack.github.io/HackCV.pdf" target="_blank">Curriculum Vitae</a>
 
+### News and upcoming talks
+<details> VfS Jahrestagung (Berlin), Sep 15-18: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep </details>
+<details> Pavia Macro Forum, Sep 12-13: Understanding Firm Dynamics with Daily Data </details>
+<details> Saling the Macro (Ortygia), Sep 6-8: The Systematic Origins of Monetary Policy Shocks </details>
+
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Working Papers:
 <details>
