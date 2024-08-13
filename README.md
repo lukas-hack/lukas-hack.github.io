@@ -12,7 +12,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ----
 
-### News and upcoming talks
+### News and Upcoming Talks
 
 <details><summary markdown="span"><font size=2><i>VfS Jahrestagung</i> (Berlin), Sep 15-18: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
 
