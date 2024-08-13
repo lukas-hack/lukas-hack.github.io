@@ -18,10 +18,10 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
 </details>
 
+<font color="gray">&diams; Pavia Macro Forum, Sep 12-13: Understanding Firm Dynamics with Daily Data</font>
 
 
 
-Pavia Macro Forum, Sep 12-13: Understanding Firm Dynamics with Daily Data <br />
 
 Saling the Macro (Ortygia), Sep 6-8: The Systematic Origins of Monetary Policy Shocks<br />
 
