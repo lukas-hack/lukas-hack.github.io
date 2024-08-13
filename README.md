@@ -5,7 +5,12 @@
 
 I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a>. I received a doctoral degree from the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> in 2024, and I am a member of the Bonn-Mannheim <a href="https://www.crctr224.de/" target="_blank">Collaborative Research Center Transregio 224</a>, funded by the German Research Foundation (DFG). My main research fields are macroeconomics, monetary economics and public economics.
 
+----
+
+
 ### <a href="https://lukas-hack.github.io/HackCV.pdf" target="_blank">Curriculum Vitae</a>
+
+----
 
 ### News and upcoming talks
 
@@ -15,7 +20,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2><i>Saling the Macro</i> (Ortygia), Sep 6-8: The Systematic Origins of Monetary Policy Shocks</font></summary></details>
 
-<br>  
+<br />
 
 ----
 
