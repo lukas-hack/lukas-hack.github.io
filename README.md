@@ -20,13 +20,11 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2><i>Saling the Macro</i> (Ortygia), Sep 6-8: The Systematic Origins of Monetary Policy Shocks</font></summary></details>
 
-
 ----
-
-<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
+<!--<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font> --> 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font>
+  <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font> [abstract]
     
   (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, December 2023) <br />
   <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
@@ -48,7 +46,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 <details>
-  <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font>
+  <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font> [abstract]
     
   (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, May 2024)</summary>
   
@@ -69,7 +67,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ### Work in progress:
  
 <details>
-  <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font>
+  <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font> [abstract]
     
   </summary>
   
