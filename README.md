@@ -18,7 +18,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2><i>Pavia Macro Forum</i>, Sep 12-13: Understanding Firm Dynamics with Daily Data</font></summary></details>
 
-<details><summary markdown="span"><font size=2><i>Saling the Macro</i> (Ortygia), Sep 6-8: The Systematic Origins of Monetary Policy Shocks</font></summary></details>
+<details><summary markdown="span"><font size=2><i>Saling the Macro</i> (Ortygia), Sep 6-8: The Systematic Origins of Monetary Policy Shocks</font></summary></details> <a></a>
 
 
 ----
