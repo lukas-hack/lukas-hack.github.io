@@ -11,11 +11,11 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span">VfS Jahrestagung (Berlin), Sep 15-18: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</summary></details>
 
-<details><summary markdown="span"><font size=small>Pavia Macro Forum, Sep 12-13: Understanding Firm Dynamics with Daily Data</font></summary></details>
+<details><summary markdown="span"><font size=small><small>Pavia Macro Forum, Sep 12-13: Understanding Firm Dynamics with Daily Data</small></font></summary></details>
 
 <details><summary markdown="span">Saling the Macro (Ortygia), Sep 6-8: The Systematic Origins of Monetary Policy Shocks</summary></details>
 
-</br>
+<br>
 
 <font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font>  
 ### Working Papers:
