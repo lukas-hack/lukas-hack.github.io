@@ -71,7 +71,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
  <details>
   <summary markdown="span"><font color="blue">Understanding Firm Dynamics with Daily Data</font>
     
-  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)</summary>
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, August 2024)</summary>
   
   | **Abstract**          |
   |:---------------------------|
