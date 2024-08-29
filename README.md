@@ -66,6 +66,23 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ----
 
+ <details>
+  <summary markdown="span"><font color="blue">Understanding Firm Dynamics with Daily Data</font>
+    
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | How do firms respond to macroeconomic shocks? To study this question, we construct novel daily time series that measure firms’ plans and expectations based on surveys from Germany. Daily variation allows us to estimate the short-run aggregate responses of firms in short samples. This allows us to analyze the post-pandemic inflation surge without relying on pre-pandemic data. We find that firms’ plans, notably price-setting plans, respond within days to oil supply and monetary policy shocks but not to forward guidance shocks. The effects are especially strong for small and non-tradeable sector firms. Finally, expectations respond strongly and swiftly, but only to monetary policy. |
+  
+</details>
+<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.txt" target="_blank"><u>[BibTex]</u></a>
+<a href="https://lukas-hack.github.io/files/understandingfirms/dbd_instructions.txt" target="_blank"><u>[Daily Business Database]</u></a>
+
+
+----
+
 
 
 ### Work in progress:
@@ -84,19 +101,6 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
  
 ----
 
- <details>
-  <summary markdown="span"><font color="blue">Managerial Decision-Making and Monetary Policy</font>
-    
-  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | working paper coming soon |
-  
-</details>
-<a> </a>
-
-----
 
  <details>
   <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
