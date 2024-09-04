@@ -79,6 +79,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
 </details>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://www.crctr224.de/research/discussion-papers/archive/dp593" target="_blank"><u>[CRC DP]</u></a> 
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.txt" target="_blank"><u>[BibTex]</u></a>
 <a href="https://lukas-hack.github.io/files/understandingfirms/dbd_instructions.txt" target="_blank"><u>[Daily Business Database]</u></a>
 
