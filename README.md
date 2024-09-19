@@ -20,6 +20,8 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details><summary markdown="span"><font size=2>New working paper:  <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Understanding Firm Dynamics with Daily Data</u></a> 
 </font></summary></details>
 
+<a> </a>
+
 ----
 
 
