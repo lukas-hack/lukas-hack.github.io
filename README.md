@@ -13,14 +13,12 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
+<details><summary markdown="span"><font size=2> I received the <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Reinhard Selten Award 2024</u></a> for my research on: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
+
 <details><summary markdown="span"><font size=2><i>New working paper</i>  <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Understanding Firm Dynamics with Daily Data</u></a> 
 </font></summary></details>
 
 <details><summary markdown="span"><font size=2><i>CEPR Annual Monetary Economics and Fluctuations Symposium 2024</i> (Gerzensee), Oct 7-9: The Systematic Origins of Monetary Policy Shocks</font></summary></details> 
-
-<details><summary markdown="span"><font size=2><i>VfS Jahrestagung</i> (Berlin), Sep 15-18: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
-
-<details><summary markdown="span"><font size=2><i>Pavia Macro Forum</i>, Sep 12-13: Understanding Firm Dynamics with Daily Data</font></summary></details>
 
 <a></a>
 
