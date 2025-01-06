@@ -13,13 +13,13 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
-<details><summary markdown="span"><font size=2>Next talks: ifo Center for Macroeconomics and Surveys (Munich, March 5), 32nd Symposium of the Society for Nonlinear Dynamics and Econometrics (San Antonio, March 21/22</font></summary></details> 
+<details><summary markdown="span"><font size=2>Next talks: ifo Center for Macroeconomics and Surveys (Munich, March 5), 32nd Symposium of the SNDE (San Antonio, March 21/22)</font></summary></details> 
 
-<details><summary markdown="span"><font size=2>Media coverage: <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>FAZ article</u></a>  (in German) about my research on bracket creep  
+<details><summary markdown="span"><font size=2>Media coverage: <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>FAZ article</u></a>  (in German) about my research on bracket creep </font></summary></details> 
 
 <details><summary markdown="span"><font size=2> I received the <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>Reinhard Selten Award 2024</u></a> for my research on: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
 
-</font></summary></details>
+
 
 <a> </a>
 
