@@ -13,11 +13,12 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
-<details><summary markdown="span"><font size=2>Next talk: <a href="https://www.dnb.nl/en/research/dnb-research-conferences/annual-research-conferences/2024-the-macroeconomic-effects-of-geopolitical-uncertainty/" target="_blank"><u>Annual Research Conference of the DNB</u></a> (Amsterdam), Nov 21-22</font></summary></details> 
+<details><summary markdown="span"><font size=2>Next talks: ifo Center for Macroeconomics and Surveys (Munich, March 5), 32nd Symposium of the Society for Nonlinear Dynamics and Econometrics (San Antonio, March 21/22</font></summary></details> 
+
+<details><summary markdown="span"><font size=2>Media coverage: <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>FAZ article</u></a>  (in German) about my research on bracket creep  
 
 <details><summary markdown="span"><font size=2> I received the <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>Reinhard Selten Award 2024</u></a> for my research on: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
 
-<details><summary markdown="span"><font size=2>New working paper:  <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Understanding Firm Dynamics with Daily Data</u></a> 
 </font></summary></details>
 
 <a> </a>
@@ -100,7 +101,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   | Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition of changes in tax rates. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. I characterize how bracket creep affects labor supply decisions in a partial equilibrium framework. Further, I estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that a given reduction in inflation via a monetary contraction leads to less output costs in an economy with bracket creep. |
   
  </details>
- <a> </a>
+ <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
  
 ----
 
