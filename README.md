@@ -103,7 +103,8 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
  </details>
  <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
- 
+ <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>[Reinhard Selten Award]</u></a>
+
 ----
 
 
