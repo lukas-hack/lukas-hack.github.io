@@ -13,7 +13,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
-<details><summary markdown="span"><font size=2>Freshly updated papers: <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>The Systematic Origins of Monetary Policy Shocks</u></a> and <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u></u></a> </font></summary></details>
+<details><summary markdown="span"><font size=2>Freshly updated papers: <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>The Systematic Origins of Monetary Policy Shocks</u></a> and <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Understanding Firm Dynamics with Daily Data</u></a> </font></summary></details>
 
 <details><summary markdown="span"><font size=2>Next talks: ifo Center for Macroeconomics and Surveys (Munich, March 5), 32nd Symposium of the SNDE (San Antonio, March 21/22); I will also visit UT Austin (March 24-28) </font></summary></details>
 
