@@ -13,12 +13,15 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
+<details><summary markdown="span"><font size=2>Freshly updated papers: <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>The Systematic Origins of Monetary Policy Shocks</u></a> and <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u></u></a> </font></summary></details>
+
 <details><summary markdown="span"><font size=2>Next talks: ifo Center for Macroeconomics and Surveys (Munich, March 5), 32nd Symposium of the SNDE (San Antonio, March 21/22); I will also visit UT Austin (March 24-28) </font></summary></details>
 
 <details><summary markdown="span"><font size=2>Media coverage: <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>FAZ article</u></a>  (in German) about my research on bracket creep </font></summary></details> 
 
+<!--
 <details><summary markdown="span"><font size=2> I received the <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>Reinhard Selten Award 2024</u></a> for my research on: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
-
+-->
 
 
 <a> </a>
@@ -58,7 +61,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
   | **Abstract**          |
   |:---------------------------|
-  | Conventional strategies to identify monetary policy shocks rest on the implicit assumption that systematic monetary policy is constant over time. We formally show that these strategies do not isolate monetary policy shocks in an environment with time-varying systematic monetary policy. Instead, they are contaminated by systematic monetary policy and macroeconomic variables, leading to contamination bias in estimated impulse responses. Empirically, we show that Romer and Romer (2004) monetary policy shocks are indeed predictable by fluctuations in systematic monetary policy. Instead, we propose a new monetary policy shock that is orthogonal to systematic monetary policy. Our shock suggests U.S. monetary policy has shorter lags and stronger effects on inflation and output. |
+  | Conventional strategies to identify monetary policy shocks rest on the implicit assumption that systematic monetary policy is time-invariant. In an environment with time-varying systematic monetary policy, we formally show that these strategies yield shocks that are contaminated, leading to bias in estimated impulse responses. In line with our theoretical results, we empirically show that conventional monetary policy shocks are predictable by measured fluctuations in systematic monetary policy. We propose new shocks that are purged of this predictability. Our preferred new shocks show that U.S.~monetary policy affects inflation and output more strongly and faster compared to the corresponding conventional shocks. |
   
 </details>
 <a href="https://cepr.org/publications/dp19063" target="_blank"><u>[CEPR DP]</u></a> 
