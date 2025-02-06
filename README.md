@@ -57,7 +57,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details>
   <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font> [abstract]
     
-  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, May 2024)</summary>
+  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, February 2025)</summary>
   
   | **Abstract**          |
   |:---------------------------|
