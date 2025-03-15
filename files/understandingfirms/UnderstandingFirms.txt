@@ -1,6 +1,7 @@
 @techreport{HRA2024,
   author={Hack, Lukas and Rostam-Afschar, Davud},
   title={Understanding Firm Dynamics with Daily Data},
-  year=2024,
-  type=mimeo
+  year={2024},
+  type = {TRR 266 Accounting for Transparency Working Paper},
+  number = {155}
 }
