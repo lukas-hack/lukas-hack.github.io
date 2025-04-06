@@ -113,12 +113,13 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details>
   <summary markdown="span"><font color="blue">Which Macroeconomic News Matter for Price-Setting?</font> [abstract]
 
-  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)
-  </summary>
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | [Draft available upon request.] We examine how macroeconomic news affects German firms’ price-setting plans from our survey with randomized daily invitations. These plans predict future realized inflation. Using a high-frequency event study framework, we find that inflation and employment surprises imply significant and sizable revisions in firms' pricing plans. There is a limited role for trade deficit surprises but not for news about industrial production, orders, and the ifo index. Finally, we study news coverage and agents' news search behavior, finding that the intensive margin response of media coverage and news search may partly drive our main results. |
+  |  We examine how macroeconomic news affects German firms’ price-setting plans from our survey with randomized daily invitations. These plans predict future realized inflation. Using a high-frequency event study framework, we find that inflation and employment surprises imply significant and sizable revisions in firms' pricing plans. There is a limited role for trade deficit surprises but not for news about industrial production, orders, and the ifo index. Finally, we study news coverage and agents' news search behavior, finding that the intensive margin response of media coverage and news search may partly drive our main results. 
+  
+  [Draft available upon request.]|
   
  </details>
 
