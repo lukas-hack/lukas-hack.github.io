@@ -102,7 +102,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
   | **Abstract**          |
   |:---------------------------|
-  | Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition of changes in tax rates. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. I characterize how bracket creep affects labor supply decisions in a partial equilibrium framework. Further, I estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that a given reduction in inflation via a monetary contraction leads to less output costs in an economy with bracket creep. |
+  | [Draft available upon request.] Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition of changes in tax rates. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. I characterize how bracket creep affects labor supply decisions in a partial equilibrium framework. Further, I estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that a given reduction in inflation via a monetary contraction leads to less output costs in an economy with bracket creep. |
   
  </details>
  <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
@@ -110,6 +110,20 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ----
 
+<details>
+  <summary markdown="span"><font color="blue">Which Macroeconomic News Matter for Price-Setting?</font> [abstract]
+
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)
+  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | [Draft available upon request.] We examine how macroeconomic news affects German firms’ price-setting plans from our survey with randomized daily invitations. These plans predict future realized inflation. Using a high-frequency event study framework, we find that inflation and employment surprises imply significant and sizable revisions in firms' pricing plans. There is a limited role for trade deficit surprises but not for news about industrial production, orders, and the ifo index. Finally, we study news coverage and agents' news search behavior, finding that the intensive margin response of media coverage and news search may partly drive our main results. |
+  
+ </details>
+
+
+----
 
  <details>
   <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
