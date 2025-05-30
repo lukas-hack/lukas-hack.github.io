@@ -1,0 +1,6 @@
+@techreport{HACK2025,
+  author={Hack, Lukas},
+  title={Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep},
+  year={2025},
+  type = {Available on SSRN}
+}
