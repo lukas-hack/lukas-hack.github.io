@@ -1,0 +1,6 @@
+@techreport{DH2025,
+  author={Diebold, Lukas and Hack, Lukas},
+  title={Loanly Governments: Sovereign Debt in the Wake of Credit Downgrades},
+  year={2025},
+  type = {Available on SSRN}
+}
