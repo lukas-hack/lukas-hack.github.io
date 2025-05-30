@@ -72,6 +72,26 @@ and Firms (Eltville, April 24/25), Hitotsubashi and Kyoto U (online, April 15), 
 
 ----
 
+
+
+
+<details>
+  <summary markdown="span"><font color="blue">Which Macroeconomic News Matters for Price-Setting?</font> [abstract]
+
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, May 2025)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  |  We examine how macroeconomic news affects firms’ extensive-margin price-setting plans in a survey that we rolled out with randomized daily invitations. These plans predict future realized inflation. Using a high-frequency event study framework, we find that inflation and employment surprises imply significant and sizable revisions in firms' pricing plans. There is a limited role for news about the trade balance, but no significant role for other commonly studied data releases, e.g., industrial production. We also study news coverage and agents' news search behavior, finding that the intensive-margin response of media coverage and news search may partly drive our main results.|
+  
+ </details>
+<a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
+<a href="https://lukas-hack.github.io/files/macronews/MacroNews.txt" target="_blank"><u>[BibTex]</u></a>
+
+
+----
+
  <details>
   <summary markdown="span"><font color="blue">Understanding Firm Dynamics with Daily Data</font> [abstract]
     
@@ -92,40 +112,47 @@ and Firms (Eltville, April 24/25), Hitotsubashi and Kyoto U (online, April 15), 
 
 ----
 
-
-
-### Work in progress:
- 
 <details>
   <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font> [abstract]
+
+  (May 2025)</summary>
+
     
   </summary>
   
   | **Abstract**          |
   |:---------------------------|
-  | [Draft available upon request.] Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition of changes in tax rates. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. I characterize how bracket creep affects labor supply decisions in a partial equilibrium framework. Further, I estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that a given reduction in inflation via a monetary contraction leads to less output costs in an economy with bracket creep. |
+  | Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition approach. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. Theoretically, I show how bracket creep affects labor supply decisions in a partial equilibrium framework and estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that bracket creep leads to a transitory steepening of the Phillips curve arising endogenously in response to a monetary shock. Such a steepening may alleviate the output costs of monetary disinflation. |
   
  </details>
+ <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>[Ungated]</u></a> 
  <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
  <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>[Reinhard Selten Award]</u></a>
+ <a href="https://lukas-hack.github.io/files/bracketcreep/BracketCreep.txt" target="_blank"><u>[BibTex]</u></a>
 
 ----
 
-<details>
-  <summary markdown="span"><font color="blue">Which Macroeconomic News Matter for Price-Setting?</font> [abstract]
 
-  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>)</summary>
+
+<details>
+  <summary markdown="span"><font color="blue">Loanly Governments:  Sovereign Debt in the Wake of Credit Downgrades</font> [abstract]
+
+  (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, May 2025)</summary>
   
   | **Abstract**          |
   |:---------------------------|
-  |  We examine how macroeconomic news affects German firms’ price-setting plans from our survey with randomized daily invitations. These plans predict future realized inflation. Using a high-frequency event study framework, we find that inflation and employment surprises imply significant and sizable revisions in firms' pricing plans. There is a limited role for trade deficit surprises but not for news about industrial production, orders, and the ifo index. Finally, we study news coverage and agents' news search behavior, finding that the intensive margin response of media coverage and news search may partly drive our main results. 
-  
-  [Draft available upon request.]|
+  |  This paper studies the funding structure of governments, examining financing beyond traditional sovereign bond markets. We document significant heterogeneity in the use of bonds and loans, and in the composition of foreign and domestic creditors. We relate this heterogeneity to sovereign credit ratings and present three key findings. First, sovereigns adjust the composition of financing instruments when credit ratings change. Second, not all rating changes and countries are alike. We find strong evidence for substitution from bonds to loans only when (i) credit ratings decrease for (ii) countries that have been rated sufficiently low. Third, the substitution toward loans is primarily financed through the domestic financial sector via foreign funds, and associated with a subsequent increase in financial distress, raising financial stability concerns. Finally, we show that the documented loan-bond substitution is also accompanied by a reduction in real GDP, primarily driven by a decline in investment, suggesting real adverse consequences.|
   
  </details>
+<a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.txt" target="_blank"><u>[BibTex]</u></a>
 
 
 ----
+
+### Work in progress:
+ 
+
 
  <details>
   <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
