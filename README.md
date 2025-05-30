@@ -13,12 +13,13 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
-<details><summary markdown="span"><font size=2>Freshly updated papers: <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>The Systematic Origins of Monetary Policy Shocks</u></a> and <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Understanding Firm Dynamics with Daily Data</u></a> </font></summary></details>
+<details><summary markdown="span"><font size=2>New paper: <a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>Which Macroeconomic News Matters for Price-Setting?</u></a></summary></details>
 
-<details><summary markdown="span"><font size=2>Next talks: Bundesbank Spring Conference on Expectations of Households
-and Firms (Eltville, April 24/25), Hitotsubashi and Kyoto U (online, April 15), St. Gallen U (Mai 15) </font></summary></details>
+<details><summary markdown="span"><font size=2>New paper: <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</u></a></summary></details>
 
-<details><summary markdown="span"><font size=2>Media coverage: <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>FAZ article</u></a>  (in German) about my research on bracket creep </font></summary></details> 
+<details><summary markdown="span"><font size=2>New paper: <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>Loanly Governments: Sovereign Debt in the Wake of Credit Downgrades</u></a></summary></details>
+
+<details><summary markdown="span"><font size=2>Next talks: SSES Conference, Zurich (June 26/27), and Public Finance Workshop, Mannheim (July 11)</font></summary></details>
 
 <!--
 <details><summary markdown="span"><font size=2> I received the <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>Reinhard Selten Award 2024</u></a> for my research on: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
@@ -135,7 +136,7 @@ and Firms (Eltville, April 24/25), Hitotsubashi and Kyoto U (online, April 15), 
 
 
 <details>
-  <summary markdown="span"><font color="blue">Loanly Governments:  Sovereign Debt in the Wake of Credit Downgrades</font> [abstract]
+  <summary markdown="span"><font color="blue">Loanly Governments: Sovereign Debt in the Wake of Credit Downgrades</font> [abstract]
 
   (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, May 2025)</summary>
   
