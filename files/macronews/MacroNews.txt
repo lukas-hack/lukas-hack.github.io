@@ -1,0 +1,7 @@
+@techreport{HRA2024,
+  author={Hack, Lukas and Rostam-Afschar, Davud},
+  title={Which Macroeconomic News Matters for Price-Setting?},
+  year={2025},
+  type = {TRR 266 Accounting for Transparency Working Paper},
+  number = {192}
+}
