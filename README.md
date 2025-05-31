@@ -3,7 +3,7 @@
 
 ### Welcome!
 
-I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a> and at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. I received a doctoral degree from the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> in 2024. My main research fields are macroeconomics, monetary economics and public economics.
+I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a> and at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. I received a doctoral degree from the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a> in 2024. My main research fields are macroeconomics, monetary economics, economic history and public economics.
 
 ----
 
