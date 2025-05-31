@@ -17,7 +17,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2>New paper: <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</u></a></summary></details>
 
-<details><summary markdown="span"><font size=2>New paper: <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>Loanly Governments: Sovereign Debt in the Wake of Credit Downgrades</u></a></summary></details>
+<details><summary markdown="span"><font size=2>New paper: <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>Loanly Governments: Sovereign Debt in the Wake of Credit Rating Downgrades</u></a></summary></details>
 
 <details><summary markdown="span"><font size=2>Next talks: SSES Conference, Zurich (June 26/27), and Public Finance Workshop, Mannheim (July 11)</font></summary></details>
 
@@ -136,7 +136,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 <details>
-  <summary markdown="span"><font color="blue">Loanly Governments: Sovereign Debt in the Wake of Credit Downgrades</font> [abstract]
+  <summary markdown="span"><font color="blue">Loanly Governments: Sovereign Debt in the Wake of Credit Rating Downgrades</font> [abstract]
 
   (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, May 2025)</summary>
   
