@@ -2,5 +2,5 @@
   author={Hack, Lukas},
   title={Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep},
   year={2025},
-  type = {Available on SSRN}
+  type = {Available at SSRN 5268667}
 }
