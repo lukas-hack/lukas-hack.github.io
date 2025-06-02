@@ -127,6 +127,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
  </details>
  <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>[Ungated]</u></a> 
+ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268667" target="_blank"><u>[SSRN]</u></a> 
  <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
  <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>[Reinhard Selten Award]</u></a>
  <a href="https://lukas-hack.github.io/files/bracketcreep/BracketCreep.txt" target="_blank"><u>[BibTex]</u></a>
@@ -146,6 +147,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
  </details>
 <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5276268" target="_blank"><u>[SSRN]</u></a> 
 <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.txt" target="_blank"><u>[BibTex]</u></a>
 
 
