@@ -87,6 +87,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
  </details>
 <a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://www.iza.org/publications/dp/17935" target="_blank"><u>[IZA DP]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
 <a href="https://lukas-hack.github.io/files/macronews/MacroNews.txt" target="_blank"><u>[BibTex]</u></a>
 
@@ -105,6 +106,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 </details>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated]</u></a> 
 <a href="https://www.crctr224.de/research/discussion-papers/archive/dp593" target="_blank"><u>[CRC DP]</u></a> 
+<a href="https://www.iza.org/publications/dp/17882/" target="_blank"><u>[IZA DP]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944988" target="_blank"><u>[SSRN]</u></a>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms_OnlineSupplement.pdf" target="_blank"><u>[Online Supplement]</u></a>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.txt" target="_blank"><u>[BibTex]</u></a>
