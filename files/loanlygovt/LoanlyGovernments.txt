@@ -2,5 +2,5 @@
   author={Diebold, Lukas and Hack, Lukas},
   title={Loanly Governments: Sovereign Debt in the Wake of Credit Rating Downgrades},
   year={2025},
-  type = {Available on SSRN}
+  type = {Available at SSRN 5276268}
 }
