@@ -19,6 +19,8 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2>New paper: <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>Loanly Governments: Sovereign Debt in the Wake of Credit Rating Downgrades</u></a></summary></details>
 
+<details><summary markdown="span"><font size=2>New policy article: <a href="https://www.wirtschaftsdienst.eu/inhalt/jahr/2025/heft/5/beitrag/auswirkungen-des-verfassungsgerichtsurteils-auf-die-oeffentlichen-investitionen.html" target="_blank"><u>The effects of the Constitutional Court ruling on public investment in Germany</u></a></summary></details>
+
 <details><summary markdown="span"><font size=2>Next talks: SSES Conference, Zurich (June 26/27), and Public Finance Workshop, Mannheim (July 11)</font></summary></details>
 
 <!--
