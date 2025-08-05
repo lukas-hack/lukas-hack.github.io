@@ -15,9 +15,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ### News and Upcoming Talks
 <details><summary markdown="span"><font size=2>I received a ETH Career Seed Award worth CHF 30,000  </font></summary></details>
 
-<details><summary markdown="span"><font size=2>Next talks: Public Finance Workshop, Mannheim (Jul 11), Sailing the Macro, Ortygia (Sep 5-7), CEPR Annual Symposium, Gerzensee (Oct 6-8)  </font></summary></details>
+<details><summary markdown="span"><font size=2>Next conferences: Sailing the Macro, Ortygia (Sep 5-7); CEPR Annual Symposium, Gerzensee (Oct 6-8); SNB Research Conference, Zurich (Oct 3-4); ifo Conference on Macroeconomics and Survey Data, Munich (Oct 17-18); Bundesbank Conference on Real Time Economics, Eltville (Oct 24-25) </font></summary></details>
 
-<details><summary markdown="span"><font size=2>New policy article: <a href="https://www.wirtschaftsdienst.eu/inhalt/jahr/2025/heft/5/beitrag/auswirkungen-des-verfassungsgerichtsurteils-auf-die-oeffentlichen-investitionen.html" target="_blank"><u>The Effects of the Constitutional Court Ruling on Public Investment in Germany</u></a></summary></details>
+<details><summary markdown="span"><font size=2>New policy articles (in German): <a href="https://www.wirtschaftsdienst.eu/inhalt/jahr/2025/heft/5/beitrag/auswirkungen-des-verfassungsgerichtsurteils-auf-die-oeffentlichen-investitionen.html" target="_blank"><u>The Effects of the Constitutional Court Ruling on Public Investment in Germany</u></a> and <a href="https://www.wirtschaftsdienst.eu/inhalt/jahr/2025/heft/5/beitrag/auswirkungen-des-verfassungsgerichtsurteils-auf-die-oeffentlichen-investitionen.html" target="_blank"><u>The Effects of the Constitutional Court Ruling on Public Investment in Germany</u></a> </summary></details>
 
 
 <!--
