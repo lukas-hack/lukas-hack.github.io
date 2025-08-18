@@ -117,7 +117,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details>
   <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font> [abstract]
 
-  (May 2025)</summary>
+  (August 2025)</summary>
 
     
   </summary>
