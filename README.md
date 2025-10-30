@@ -88,7 +88,7 @@ Barcelona in November 2025 </font></summary></details>
   
  </details>
 <a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated]</u></a> 
-<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank">CESifo WP</a>
+<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank">[CESifo WP]</a>
 <a href="https://www.iza.org/publications/dp/17935" target="_blank"><u>[IZA DP]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
 <a href="https://lukas-hack.github.io/files/macronews/MacroNews.txt" target="_blank"><u>[BibTex]</u></a>
