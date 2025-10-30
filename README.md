@@ -13,7 +13,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
-<details><summary markdown="span"><font size=2>RA Job: If you are a Zurich-based student interested to work on the intersection of macroeconomics and economic history, please send a CV and a brief statement of your relevant interests/experiences  </font></summary></details>
+<details><summary markdown="span"><font size=2>RA Job: If you are a Zurich-based student interested to work on the intersection of macroeconomics and economic history, please see this  <a href="https://lukas-hack.github.io/files/Student_Assistant_CfA_2025.pdf" target="_blank">Call for Applications</a> </font></summary></details>
 
 <details><summary markdown="span"><font size=2>I received a SNF Spark grant worth CHF 97,000 </font></summary></details>
 
