@@ -13,7 +13,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
-<details><summary markdown="span"><font size=2>I received a SNF Spark grant worth CHF 97,000 for extracting economic expectations from historical texts. If you are a Zurich-based student interested to work on this as RA, please send a CV and a brief statement of your relevant interests/experiences  </font></summary></details>
+<details><summary markdown="span"><font size=2>RA Job: If you are a Zurich-based student interested to work on the intersection of macroeconomics and economic history, please send a CV and a brief statement of your relevant interests/experiences  </font></summary></details>
+
+<details><summary markdown="span"><font size=2>I received a SNF Spark grant worth CHF 97,000 </font></summary></details>
 
 <details><summary markdown="span"><font size=2>I am visting Universitat Pompeu Fabra
 Barcelona in November 2025 </font></summary></details>
