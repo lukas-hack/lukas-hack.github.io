@@ -23,6 +23,11 @@ Barcelona in November 2025 </font></summary></details>
 <details><summary markdown="span"><font size=2>My paper "Which Macroeconomic News Matters for Price-Setting?" is now available as <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank">CESifo Working Paper</a>
 </font></summary></details>
 
+<details><summary markdown="span"><font size=2>I have just updated my paper <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Understanding Firm Dynamics with Daily Data</u></a> 
+</font></summary></details>
+
+
+
 
 <!--
 <details><summary markdown="span"><font size=2> I received the <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>Reinhard Selten Award 2024</u></a> for my research on: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
@@ -105,12 +110,12 @@ Barcelona in November 2025 </font></summary></details>
   
   | **Abstract**          |
   |:---------------------------|
-  | How do firms’ plans and expectations respond to macroeconomic shocks? We run a daily survey of German firms over the past three years. We randomize daily invitations, delivering a stable composition of firms. This allows constructing daily time series and estimating dynamic aggregate causal effects. These estimates capture firms’ responsiveness conditional on the recent economic environment, making them informative for policymakers. We examine oil supply, monetary policy, and forward guidance shocks, finding that firms’ plans, especially price-setting plans, respond within days to oil supply and monetary policy shocks but not to forward guidance. Finally, we investigate firm heterogeneity and expectations. |
+  | How quickly do firms adjust their plans and expectations after macroeconomic shocks? To answer this, we run a daily survey of German firms featuring randomized daily invitations. Thus, we receive daily survey responses with a stable composition of firms. We use this to construct daily time series and estimate the responses to three macroeconomic shock series. Our overarching finding is that firms respond remarkably fast to oil supply and monetary policy shocks during the post-Covid inflation surge. We further document heterogeneity across firm types and show that expectations are an important channel through which monetary policy transmits to firms’ plans. |
   
 </details>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated]</u></a> 
 <a href="https://www.crctr224.de/research/discussion-papers/archive/dp593" target="_blank"><u>[CRC DP]</u></a> 
-<a href="https://www.iza.org/publications/dp/17882/" target="_blank"><u>[IZA DP]</u></a>
+<!--<a href="https://www.iza.org/publications/dp/17882/" target="_blank"><u>[IZA DP]</u></a>-->
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944988" target="_blank"><u>[SSRN]</u></a>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms_OnlineSupplement.pdf" target="_blank"><u>[Online Supplement]</u></a>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.txt" target="_blank"><u>[BibTex]</u></a>
