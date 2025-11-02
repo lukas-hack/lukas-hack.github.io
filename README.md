@@ -23,7 +23,7 @@ Barcelona in November 2025 </font></summary></details>
 <details><summary markdown="span"><font size=2>My paper "Which Macroeconomic News Matters for Price-Setting?" is now available as <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank">CESifo Working Paper</a>
 </font></summary></details>
 
-<details><summary markdown="span"><font size=2>I have just updated my paper <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>Understanding Firm Dynamics with Daily Data</u></a> 
+<details><summary markdown="span"><font size=2>I have just updated my paper <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank">Understanding Firm Dynamics with Daily Data</a> 
 </font></summary></details>
 
 
