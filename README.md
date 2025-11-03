@@ -110,7 +110,7 @@ Barcelona in November 2025 </font></summary></details>
   
   | **Abstract**          |
   |:---------------------------|
-  | How quickly do firms adjust their plans and expectations after macroeconomic shocks? To answer this, we run a daily survey of German firms featuring randomized daily invitations. Thus, we receive daily survey responses with a stable composition of firms. We use this to construct daily time series and estimate the responses to three macroeconomic shock series. Our overarching finding is that firms respond remarkably fast to oil supply and monetary policy shocks during the post-Covid inflation surge. We further document heterogeneity across firm types and show that expectations are an important channel through which monetary policy transmits to firms’ plans. |
+  | How quickly do firms adjust their plans and expectations after macroeconomic shocks? To answer this, we run a daily survey of German firms featuring randomized daily invitations. Thus, we receive daily survey responses with a stable composition of firms. We use this to construct daily time series and estimate the responses to three macroeconomic shock series. Our overarching finding is that firms respond within days to oil supply and monetary policy shocks during the post-Covid inflation surge. We further document heterogeneity across firm types and show that expectations are an important channel through which monetary policy transmits to firms’ plans. |
   
 </details>
 <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated]</u></a> 
