@@ -1,0 +1,6 @@
+@techreport{FH2025,
+  author={Franconi, Alessandro and Hack, Lukas},
+  title={Import Tariffs and the Systematic Response of Monetary Policy},
+  year={2025},
+  type = {Available at SSRN}
+}
