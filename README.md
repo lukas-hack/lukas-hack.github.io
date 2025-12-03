@@ -85,7 +85,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
   | **Abstract**          |
   |:---------------------------|
-  |  We estimate the macroeconomic effects of U.S. import tariff shocks, using several tariff measurement and identification approaches. Tariff shocks reduce output but increase consumer prices. Monetary policy partially accommodates these shocks with a policy easing. To quantify the dependence on systematic monetary policy, we use empirically identified monetary policy shocks to construct counterfactuals that are robust against model misspecification and the Lucas critique. When monetary policy strictly stabilizes inflation, the output contraction at the trough is 36\% larger than in the baseline. In contrast, strict output stabilization implies a peak inflation effect that almost doubles, compared to the baseline.|
+  |  We estimate the macroeconomic effects of U.S. import tariff shocks using several tariff measurement and identification approaches. Tariff shocks reduce output but increase consumer prices. Monetary policy partially accommodates these shocks with a policy easing. To quantify the dependence on systematic monetary policy, we use empirically identified monetary policy shocks to construct counterfactuals that are robust against model misspecification and the Lucas critique. When monetary policy strictly stabilizes inflation, the output contraction at the trough is 36\% larger than in the baseline. In contrast, strict output stabilization implies a peak inflation effect that almost doubles, compared to the baseline.|
   
  </details>
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank"><u>[Ungated]</u></a> 
