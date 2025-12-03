@@ -17,13 +17,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2>I received a SNF Spark grant worth CHF 97,000 </font></summary></details>
 
-<details><summary markdown="span"><font size=2>I am visting Universitat Pompeu Fabra
-Barcelona in November 2025 </font></summary></details>
-
-<details><summary markdown="span"><font size=2>My paper "Which Macroeconomic News Matters for Price-Setting?" is now available as <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank">CESifo Working Paper</a>
-</font></summary></details>
-
-<details><summary markdown="span"><font size=2>I have just updated my paper <a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank">Understanding Firm Dynamics with Daily Data</a> 
+<details><summary markdown="span"><font size=2>New working paper joint with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi
+</a>: <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank">Import Tariffs and the Systematic Response of Monetary Policy
+</a> 
 </font></summary></details>
 
 
@@ -77,6 +73,26 @@ Barcelona in November 2025 </font></summary></details>
 <a href="https://cepr.org/publications/dp19063" target="_blank"><u>[CEPR DP]</u></a> 
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>[Ungated]</u></a> 
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.txt" target="_blank"><u>[BibTex]</u></a>
+
+----
+
+
+
+
+<details>
+  <summary markdown="span"><font color="blue">Import Tariffs and the Systematic Response of Monetary Policy</font> [abstract]
+
+  (with <a href="https://rostam-afschar.de/" target="_blank">Alessandro Franconi</a>, December 2025)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  |  We estimate the macroeconomic effects of U.S. import tariff shocks, using several tariff measurement and identification approaches. Tariff shocks reduce output but increase consumer prices. Monetary policy partially accommodates these shocks with a policy easing. To quantify the dependence on systematic monetary policy, we use empirically identified monetary policy shocks to construct counterfactuals that are robust against model misspecification and the Lucas critique. When monetary policy strictly stabilizes inflation, the output contraction at the trough is 36\% larger than in the baseline. In contrast, strict output stabilization implies a peak inflation effect that almost doubles, compared to the baseline.|
+  
+ </details>
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_appendix.pdf" target="_blank">[Supplemental Appendix]</a>
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.txt" target="_blank"><u>[BibTex]</u></a>
+
 
 
 ----
