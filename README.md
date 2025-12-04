@@ -21,6 +21,8 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 </a> 
 </font></summary></details>
 
+<details><summary markdown="span"><font size=2>Watch my 15 minute CEBRA Webinar on  <a href="https://www.youtube.com/watch?app=desktop&v=19sQUbF_D0s" target="_blank">Which macroeconomic news matter for price setting?</a>
+</font></summary></details>
 
 
 
@@ -114,6 +116,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank">[CESifo WP]</a>
 <a href="https://www.iza.org/publications/dp/17935" target="_blank"><u>[IZA DP]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
+<a href="https://www.youtube.com/watch?app=desktop&v=19sQUbF_D0s" target="_blank"><u>[CEBRA Webinar]</u></a>
 <a href="https://lukas-hack.github.io/files/macronews/MacroNews.txt" target="_blank"><u>[BibTex]</u></a>
 
 
