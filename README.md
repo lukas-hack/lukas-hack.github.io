@@ -17,6 +17,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2>I received a SNF Spark grant worth CHF 97,000 </font></summary></details>
 
+<details><summary markdown="span"><font size=2>My paper on the systematic origins of monetary policy shocks is now out as a <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank">Banque de France Working Paper</a> and we make our shock time series available <a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank">here</a> 
+</font></summary></details>
+
 <details><summary markdown="span"><font size=2>New working paper joint with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>: <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank">Import Tariffs and the Systematic Response of Monetary Policy
 </a> 
 </font></summary></details>
