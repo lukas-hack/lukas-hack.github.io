@@ -57,8 +57,8 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   <a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2851~4d974d2c78.en.pdf?4cd7ee5d83a40ae84b8c09a27d7f80fa" target="_blank"><u>[ECB WP]</u></a> 
   <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP.pdf" target="_blank"><u>[Ungated]</u></a> 
   <a href="https://cepr.org/voxeu/columns/hawkish-or-dovish-central-bankers-different-flocks-and-fiscal-shocks" target="_blank"><u>[Vox EU]</u></a> 
-  <a href="https://www.ecb.europa.eu/pub/economic-research/resbull/2023/html/ecb.rb231219~159bb78c3e.en.html" target="_blank">[ECB Research Bulletin]</a> 
-  <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP_SUERF.pdf" target="_blank">[SUERF Policy Brief]</a> 
+  <a href="https://www.ecb.europa.eu/pub/economic-research/resbull/2023/html/ecb.rb231219~159bb78c3e.en.html" target="_blank"><u>[ECB Research Bulletin]</u></a> 
+  <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP_SUERF.pdf" target="_blank"><u>[SUERF Policy Brief]</u></a> 
   <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP.txt" target="_blank"><u>[BibTex]</u></a>
 <br> 
 
@@ -75,9 +75,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
 </details>
 <a href="https://cepr.org/publications/dp19063" target="_blank"><u>[CEPR DP]</u></a> 
-<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank">[BdF WP]</a>
+<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank"><u>[BdF WP]</u></a>
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>[Ungated]</u></a> 
-<a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank">[Shock data]</a>
+<a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank"><u>[Shock data]</u></a>
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.txt" target="_blank"><u>[BibTex]</u></a>
 
 ----
@@ -96,7 +96,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
  </details>
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank"><u>[Ungated]</u></a> 
-<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_appendix.pdf" target="_blank">[Supplemental Appendix]</a>
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_appendix.pdf" target="_blank"><u>[Supplemental Appendix]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5855664" target="_blank"><u>[SSRN]</u></a> 
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.txt" target="_blank"><u>[BibTex]</u></a>
 
@@ -118,7 +118,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
  </details>
 <a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated]</u></a> 
-<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank">[CESifo WP]</a>
+<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank"><u>[CESifo WP]</u></a>
 <a href="https://www.iza.org/publications/dp/17935" target="_blank"><u>[IZA DP]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
 <a href="https://www.youtube.com/watch?app=desktop&v=19sQUbF_D0s" target="_blank"><u>[CEBRA Webinar]</u></a>
