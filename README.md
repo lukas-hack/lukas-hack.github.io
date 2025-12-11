@@ -75,7 +75,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   
 </details>
 <a href="https://cepr.org/publications/dp19063" target="_blank"><u>[CEPR DP]</u></a> 
+<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank">[BdF WP]</a>
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank">[Shock data]</a>
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.txt" target="_blank"><u>[BibTex]</u></a>
 
 ----
