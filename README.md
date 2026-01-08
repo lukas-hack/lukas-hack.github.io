@@ -62,6 +62,24 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP.txt" target="_blank"><u>[BibTex]</u></a>
 <br> 
 
+
+
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Loanly Governments</font> [abstract]
+
+  (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, in preparation for the NBER <a href="https://www.nber.org/conferences/international-seminar-macroeconomics-2026" target="_blank">International Seminar on Macroeconomics 2026</a> in Stockholm)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  |  We compile a new dataset on government liabilities by instrument for 33 advanced economies and document that a substantial share of government debt consists of loans rather than bonds. To study governments' loan-bond portfolio choice, we exploit high-frequency variation in bond yields around sovereign credit rating announcements, which shift the demand for government liabilities. Our analysis yields three main findings. First, increasing bond yields cause the government to substitute from bond to loan-based borrowing. Second, this substitution is mirrored by foreign creditors, who reduce their direct bond holdings and increasingly provide funding indirectly through domestic bank loans. Third, this shift toward domestic bank loans is associated with elevated levels of financial distress. Finally, we discuss how these findings can be rationalized when repatriating government debt through domestic banks reduces sovereign default risk. This mitigates the initial bond yield increase, albeit at the expense of higher bank balance sheet risk.|
+  
+ </details>
+<a href=""><u>[Draft available upon request]</u></a> 
+
+
+
 ----
 
 <details>
@@ -171,22 +189,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 
-<details>
-  <summary markdown="span"><font color="blue">Loanly Governments: Sovereign Debt in the Wake of Credit Rating Downgrades</font> [abstract]
 
-  (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, May 2025)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  |  This paper studies the funding structure of governments, examining financing beyond traditional sovereign bond markets. We document significant heterogeneity in the use of bonds and loans, and in the composition of foreign and domestic creditors. We relate this heterogeneity to sovereign credit ratings and present three key findings. First, sovereigns adjust the composition of financing instruments when credit ratings change. Second, not all rating changes and countries are alike. We find strong evidence for substitution from bonds to loans only when (i) credit ratings decrease for (ii) countries that have been rated sufficiently low. Third, the substitution toward loans is primarily financed through the domestic financial sector via foreign funds, and associated with a subsequent increase in financial distress, raising financial stability concerns. Finally, we show that the documented loan-bond substitution is also accompanied by a reduction in real GDP, primarily driven by a decline in investment, suggesting real adverse consequences.|
-  
- </details>
-<a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>[Ungated]</u></a> 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5276268" target="_blank"><u>[SSRN]</u></a> 
-<a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.txt" target="_blank"><u>[BibTex]</u></a>
-
-
-----
 
 ### Work in progress:
  
