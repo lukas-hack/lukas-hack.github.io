@@ -70,7 +70,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   <summary markdown="span"><font color="blue">Loanly Governments</font> [abstract]
 
   (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>) <br />
-  <b> <i>in preparation for the NBER <a href="https://www.nber.org/conferences/international-seminar-macroeconomics-2026" target="_blank">International Seminar on Macroeconomics</a></i> </b>
+  <b> <i>In preparation for the NBER International Seminar on Macroeconomics</i> </b>
   </summary>
   
   | **Abstract**          |
@@ -78,7 +78,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   |  We compile a new dataset on government liabilities by instrument for 33 advanced economies and document that a substantial share of government debt consists of loans rather than bonds. To study governments' loan-bond portfolio choice, we exploit high-frequency variation in bond yields around sovereign credit rating announcements, which shift the demand for government liabilities. Our analysis yields three main findings. First, increasing bond yields cause the government to substitute from bond to loan-based borrowing. Second, this substitution is mirrored by foreign creditors, who reduce their direct bond holdings and increasingly provide funding indirectly through domestic bank loans. Third, this shift toward domestic bank loans is associated with elevated levels of financial distress. Finally, we discuss how these findings can be rationalized when repatriating government debt through domestic banks reduces sovereign default risk. This mitigates the initial bond yield increase, albeit at the expense of higher bank balance sheet risk.|
   
  </details>
-<a href=""><u>[Draft available upon request]</u></a> 
+<a href="https://www.nber.org/conferences/international-seminar-macroeconomics-2026" target="_blank">[Draft available upon request]</a>
 
 
 
