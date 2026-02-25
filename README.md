@@ -197,9 +197,37 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 ### Work in progress:
+
+  <details>
+  <summary markdown="span"><font color="blue">Reviving Lost Voices: Economic Expectations from Historical Diaries</font>
+    
+  (with <a href="https://sites.google.com/view/lukas-diebold/home" target="_blank">Lukas Diebold</a> and <a href="https://sites.google.com/view/timo-wochner/research" target="_blank">Timo Wochner</a> )</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | working paper coming soon |
+  
+ </details>
+
+
+ ----
+
  
+ <details>
+  <summary markdown="span"><font color="blue">Sentiment Shocks and the Business Cycle:
+Evidence from 150 Years of Industrial Disasters</font>
+    
+  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | working paper coming soon |
+  
+ </details>
 
+ ----
 
+ 
  <details>
   <summary markdown="span"><font color="blue">Transmission of Monetary Policy in a Currency Area with Heterogeneous Households</font>
     
@@ -210,6 +238,11 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   | working paper coming soon |
   
  </details>
+
+
+
+
+ 
 <!--
  <a href="https://www.dropbox.com/s/83xwsadbrh63uqg/SomePaper2.pdf?dl=0" target="_blank"><u>[Paper (PDF)]</u></a> (Prelim. draft available upon request) 
 ----
@@ -239,7 +272,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <br>
 
 ### Select Work in Progress:
-<details>
+  <details>
   <summary markdown="span"><font color="blue">Some ongoing project</font>
   
   (with [Matthias Meier](https://sites.google.com/site/matthias1meier1/))</summary>
