@@ -81,7 +81,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>[Ungated]</u></a> 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155486" target="_blank">[SSRN]</a>
 <a href="https://www.nber.org/conferences/international-seminar-macroeconomics-2026" target="_blank">[NBER ISOM 2026]</a>
-<a href="https://lukas-hack.github.io/files/sysmp/LoanlyGovernments.txt" target="_blank"><u>[BibTex]</u></a>
+<a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.txt" target="_blank"><u>[BibTex]</u></a>
 
 
 ----
