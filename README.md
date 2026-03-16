@@ -89,7 +89,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details>
   <summary markdown="span"><font color="blue">Import Tariffs and the Systematic Response of Monetary Policy</font> [abstract]
 
-  (with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>, December 2025) <b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
+  (with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>, December 2025) <br /> <b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
