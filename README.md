@@ -87,6 +87,27 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 <details>
+  <summary markdown="span"><font color="blue">Import Tariffs and the Systematic Response of Monetary Policy</font> [abstract]
+
+  (with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>, December 2025) <b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  |  We estimate the macroeconomic effects of U.S. import tariff shocks using several tariff measurement and identification approaches. Tariff shocks reduce output but increase consumer prices. Monetary policy partially accommodates these shocks with a policy easing. To quantify the dependence on systematic monetary policy, we use empirically identified monetary policy shocks to construct counterfactuals that are robust against model misspecification and the Lucas critique. When monetary policy strictly stabilizes inflation, the output contraction at the trough is 36\% larger than in the baseline. In contrast, strict output stabilization implies a peak inflation effect that almost doubles, compared to the baseline.|
+  
+ </details>
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/import-tariffs-and-systematic-response-monetary-policy" target="_blank"><u>[BdF WP]</u></a> 
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_appendix.pdf" target="_blank"><u>[Online Appendix]</u></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5855664" target="_blank"><u>[SSRN]</u></a> 
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.txt" target="_blank"><u>[BibTex]</u></a>
+
+
+
+----
+
+
+<details>
   <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font> [abstract]
     
   (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, February 2025)</summary>
@@ -106,26 +127,6 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 
-
-<details>
-  <summary markdown="span"><font color="blue">Import Tariffs and the Systematic Response of Monetary Policy</font> [abstract]
-
-  (with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>, December 2025)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  |  We estimate the macroeconomic effects of U.S. import tariff shocks using several tariff measurement and identification approaches. Tariff shocks reduce output but increase consumer prices. Monetary policy partially accommodates these shocks with a policy easing. To quantify the dependence on systematic monetary policy, we use empirically identified monetary policy shocks to construct counterfactuals that are robust against model misspecification and the Lucas critique. When monetary policy strictly stabilizes inflation, the output contraction at the trough is 36\% larger than in the baseline. In contrast, strict output stabilization implies a peak inflation effect that almost doubles, compared to the baseline.|
-  
- </details>
-<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank"><u>[Ungated]</u></a> 
-<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/import-tariffs-and-systematic-response-monetary-policy" target="_blank"><u>[BdF WP]</u></a> 
-<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_appendix.pdf" target="_blank"><u>[Online Appendix]</u></a>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5855664" target="_blank"><u>[SSRN]</u></a> 
-<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.txt" target="_blank"><u>[BibTex]</u></a>
-
-
-
-----
 
 
 
