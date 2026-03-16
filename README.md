@@ -69,7 +69,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details>
   <summary markdown="span"><font color="blue">Loanly Governments</font> [abstract]
 
-  (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>) <br />
+  (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, January 2026) <br />
   <b> <i>In preparation for the NBER International Seminar on Macroeconomics</i> </b>
   </summary>
   
