@@ -13,21 +13,21 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 ### News and Upcoming Talks
-<details><summary markdown="span"><font size=2>RA Job: If you are a Zurich-based student interested to work on the intersection of macroeconomics and economic history, please see this  <a href="https://lukas-hack.github.io/files/Student_Assistant_CfA_2025.pdf" target="_blank">Call for Applications</a> </font></summary></details>
 
-<details><summary markdown="span"><font size=2>I received a SNF Spark grant worth CHF 97,000 </font></summary></details>
+<details><summary markdown="span"><font size=2> New ZEW Policy Brief on the consequences of the Iran War for the German economy <a href="https://www.zew.de/publikationen/der-irankrieg-und-die-wirtschaftlichen-konsequenzen-fuer-deutschland" target="_blank">ZEW Policy Brief</a> </font></summary></details>
 
-<details><summary markdown="span"><font size=2>My paper on the systematic origins of monetary policy shocks is now out as a <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank">Banque de France Working Paper</a> and we make our shock time series available <a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank">here</a> 
+<details><summary markdown="span"><font size=2>New working paper joint with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>: <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank">Import Tariffs and the Systematic Response of Monetary Policy, which has received a revise and resubmit at the Review of Economic and Statistics
+</a> 
 </font></summary></details>
 
-<details><summary markdown="span"><font size=2>New working paper joint with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>: <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank">Import Tariffs and the Systematic Response of Monetary Policy
-</a> 
+<details><summary markdown="span"><font size=2>My paper on the systematic origins of monetary policy shocks is now out as a <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank">Banque de France Working Paper</a> and we make our shock time series available <a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank">here</a> 
 </font></summary></details>
 
 <details><summary markdown="span"><font size=2>Watch my 15 minute CEBRA Webinar on  <a href="https://www.youtube.com/watch?app=desktop&v=19sQUbF_D0s" target="_blank">Which macroeconomic news matter for price setting?</a>
 </font></summary></details>
 
-
+<details><summary markdown="span"><font size=2> Upcoming presentations: Innsbruck Macro Workshop.
+</font></summary></details>
 
 <!--
 <details><summary markdown="span"><font size=2> I received the <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>Reinhard Selten Award 2024</u></a> for my research on: Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font></summary></details>
