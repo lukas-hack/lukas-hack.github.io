@@ -14,7 +14,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ### News and Upcoming Talks
 
-<details><summary markdown="span"><font size=2> New ZEW Policy Brief on the consequences of the Iran War for the German economy <a href="https://www.zew.de/publikationen/der-irankrieg-und-die-wirtschaftlichen-konsequenzen-fuer-deutschland" target="_blank">ZEW Policy Brief</a> </font></summary></details>
+<details><summary markdown="span"><font size=2> New <a href="https://www.zew.de/publikationen/der-irankrieg-und-die-wirtschaftlichen-konsequenzen-fuer-deutschland" target="_blank">ZEW Policy Brief</a> on the consequences of the Iran War for the German economy  </font></summary></details>
 
 <details><summary markdown="span"><font size=2>New working paper joint with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>: <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank">Import Tariffs and the Systematic Response of Monetary Policy, which has received a revise and resubmit at the Review of Economic and Statistics
 </a> 
