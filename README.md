@@ -14,6 +14,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ### News and Upcoming Talks
 
+<details><summary markdown="span"><font size=2>I updated my paper  <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP.pdf" target="_blank">Identification of Systematic Monetary Policy</a>
+</font></summary></details>
+
 <details><summary markdown="span"><font size=2> New <a href="https://www.zew.de/publikationen/der-irankrieg-und-die-wirtschaftlichen-konsequenzen-fuer-deutschland" target="_blank">ZEW Policy Brief</a> on the consequences of the Iran War for the German economy  </font></summary></details>
 
 <details><summary markdown="span"><font size=2>My paper <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank">Import Tariffs and the Systematic Response of Monetary Policy
@@ -23,8 +26,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details><summary markdown="span"><font size=2>My paper on the systematic origins of monetary policy shocks is now out as a <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank">Banque de France Working Paper</a> and we make our shock time series available <a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank">here</a> 
 </font></summary></details>
 
-<details><summary markdown="span"><font size=2>Watch my 15 minute CEBRA Webinar on  <a href="https://www.youtube.com/watch?app=desktop&v=19sQUbF_D0s" target="_blank">Which macroeconomic news matter for price setting?</a>
-</font></summary></details>
+
 
 <details><summary markdown="span"><font size=2> Upcoming presentations: Innsbruck Macro Workshop.
 </font></summary></details>
@@ -45,7 +47,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <details>
   <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font> [abstract]
     
-  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, December 2023) <br />
+  (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, March 2026) <br />
   <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
   
   | **Abstract**          |
@@ -53,9 +55,10 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   | We propose a novel identification design to estimate the causal effects of systematic monetary policy on the propagation of macroeconomic shocks. The design combines (i)~a time-varying measure of systematic monetary policy based on the historical composition of hawks and doves in the Federal Open Market Committee (FOMC) with (ii) an instrument that leverages the mechanical FOMC rotation of voting rights. We apply our design to study the effects of government spending shocks. We find fiscal multipliers between two and three when the FOMC is dovish and below zero when it is hawkish. Narrative evidence from historical FOMC records corroborates our findings. |
   
  </details>
+  <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+  <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP_Note.pdf" target="_blank"><u>[Companion Note]</u></a> 
   <a href="https://cepr.org/publications/dp17999" target="_blank"><u>[CEPR DP]</u></a> 
   <a href="https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2851~4d974d2c78.en.pdf?4cd7ee5d83a40ae84b8c09a27d7f80fa" target="_blank"><u>[ECB WP]</u></a> 
-  <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP.pdf" target="_blank"><u>[Ungated]</u></a> 
   <a href="https://cepr.org/voxeu/columns/hawkish-or-dovish-central-bankers-different-flocks-and-fiscal-shocks" target="_blank"><u>[Vox EU]</u></a> 
   <a href="https://www.ecb.europa.eu/pub/economic-research/resbull/2023/html/ecb.rb231219~159bb78c3e.en.html" target="_blank"><u>[ECB Research Bulletin]</u></a> 
   <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP_SUERF.pdf" target="_blank"><u>[SUERF Policy Brief]</u></a> 
