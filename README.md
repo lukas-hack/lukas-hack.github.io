@@ -23,7 +23,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 </a> (joint with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>) has received a revise and resubmit at the Review of Economic and Statistics 
 </font></summary></details>
 
-<details><summary markdown="span"><font size=2> Upcoming presentations: Innsbruck Macro Workshop.
+<details><summary markdown="span"><font size=2> Upcoming presentations: Innsbruck Macro Workshop (March), Heidelberg U (May), Alicante U & Swiss National Bank & NBER ISOM (June), SED (July).
 </font></summary></details>
 
 <!--
