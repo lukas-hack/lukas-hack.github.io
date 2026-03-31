@@ -19,9 +19,6 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 <details><summary markdown="span"><font size=2> New <a href="https://www.zew.de/publikationen/der-irankrieg-und-die-wirtschaftlichen-konsequenzen-fuer-deutschland" target="_blank">ZEW Policy Brief</a> on the consequences of the Iran War for the German economy  </font></summary></details>
 
-<details><summary markdown="span"><font size=2>My paper <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank">Import Tariffs and the Systematic Response of Monetary Policy
-</a> has received a revise and resubmit at the Review of Economic and Statistics 
-</font></summary></details>
 
 <details><summary markdown="span"><font size=2> Upcoming presentations: Innsbruck Macro Workshop (March), Heidelberg U (May), Alicante U & Swiss National Bank & NBER ISOM (June), SED (July)
 </font></summary></details>
