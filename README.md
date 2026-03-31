@@ -105,6 +105,33 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 ----
 
 
+
+
+
+
+<details>
+  <summary markdown="span"><font color="blue">Which Macroeconomic News Matters for Price-Setting?</font> [abstract]
+
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, March 2026)</summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  |  Understanding which macroeconomic information drives firms' pricing decisions is critical for the evaluation of inflation dynamics and macroeconomic policy. We provide causal evidence on firms' price setting using daily event studies around several types of macroeconomic data releases. This is based on a survey of German firms with randomized daily invitations, from which we construct a daily time series of extensive-margin price-setting plans that is highly predictive of future realized inflation. We find that inflation and employment surprises lead to significant revisions in firms' pricing plans. In contrast, there is no significant effect of other commonly studied data releases, such as industrial production or manufacturing orders. Additional daily analysis of media coverage and news searches supports the importance of inflation and employment releases for the price-setting responses.
+|
+  
+ </details>
+<a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank"><u>[CESifo WP]</u></a>
+<a href="https://www.iza.org/publications/dp/17935" target="_blank"><u>[IZA DP]</u></a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
+<a href="https://www.youtube.com/watch?app=desktop&v=19sQUbF_D0s" target="_blank"><u>[CEBRA Webinar]</u></a>
+<a href="https://lukas-hack.github.io/files/macronews/MacroNews.txt" target="_blank"><u>[BibTex]</u></a>
+
+
+----
+
+
+
 <details>
   <summary markdown="span"><font color="blue">The Systematic Origins of Monetary Policy Shocks</font> [abstract]
     
@@ -125,29 +152,6 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 
-
-
-
-
-<details>
-  <summary markdown="span"><font color="blue">Which Macroeconomic News Matters for Price-Setting?</font> [abstract]
-
-  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, May 2025)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  |  We examine how macroeconomic news affects firms’ extensive-margin price-setting plans in a survey that we rolled out with randomized daily invitations. These plans predict future realized inflation. Using a high-frequency event study framework, we find that inflation and employment surprises imply significant and sizable revisions in firms' pricing plans. There is a limited role for news about the trade balance, but no significant role for other commonly studied data releases, e.g., industrial production. We also study news coverage and agents' news search behavior, finding that the intensive-margin response of media coverage and news search may partly drive our main results.|
-  
- </details>
-<a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated]</u></a> 
-<a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank"><u>[CESifo WP]</u></a>
-<a href="https://www.iza.org/publications/dp/17935" target="_blank"><u>[IZA DP]</u></a>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
-<a href="https://www.youtube.com/watch?app=desktop&v=19sQUbF_D0s" target="_blank"><u>[CEBRA Webinar]</u></a>
-<a href="https://lukas-hack.github.io/files/macronews/MacroNews.txt" target="_blank"><u>[BibTex]</u></a>
-
-
-----
 
  <details>
   <summary markdown="span"><font color="blue">Understanding Firm Dynamics with Daily Data</font> [abstract]
