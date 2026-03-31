@@ -76,7 +76,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   |  We compile a new dataset on government liabilities by instrument for 33 advanced economies and document that a substantial share of government debt consists of loans rather than bonds. To study governments' loan-bond portfolio choice, we exploit high-frequency variation in bond yields around sovereign credit rating announcements, which shift the demand for government liabilities. Our analysis yields three main findings. First, increasing bond yields cause the government to substitute from bond to loan-based borrowing. Second, this substitution is mirrored by foreign creditors, who reduce their direct bond holdings and increasingly provide funding indirectly through domestic bank loans. Third, this shift toward domestic bank loans is associated with elevated levels of financial distress. Finally, we discuss how these findings can be rationalized when repatriating government debt through domestic banks reduces sovereign default risk. This mitigates the initial bond yield increase, albeit at the expense of higher bank balance sheet risk.|
   
  </details>
-<a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6155486" target="_blank">[SSRN]</a>
 <a href="https://www.nber.org/conferences/international-seminar-macroeconomics-2026" target="_blank">[NBER ISOM 2026]</a>
 <a href="https://lukas-hack.github.io/files/loanlygovt/LoanlyGovernments.txt" target="_blank"><u>[BibTex]</u></a>
@@ -94,7 +94,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   |  We estimate the macroeconomic effects of U.S. import tariff shocks using several tariff measurement and identification approaches. Tariff shocks reduce output but increase consumer prices. Monetary policy partially accommodates these shocks with a policy easing. To quantify the dependence on systematic monetary policy, we use empirically identified monetary policy shocks to construct counterfactuals that are robust against model misspecification and the Lucas critique. When monetary policy strictly stabilizes inflation, the output contraction at the trough is 36% larger than in the baseline. In contrast, strict output stabilization implies a peak inflation effect that almost doubles, compared to the baseline.|
   
  </details>
-<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
 <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/import-tariffs-and-systematic-response-monetary-policy" target="_blank"><u>[BdF WP]</u></a> 
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_appendix.pdf" target="_blank"><u>[Online Appendix]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5855664" target="_blank"><u>[SSRN]</u></a> 
@@ -120,7 +120,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 |
   
  </details>
-<a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/macronews/MacroNews.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
 <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/which-macroeconomic-news-matters-price-setting" target="_blank"><u>[CESifo WP]</u></a>
 <a href="https://www.iza.org/publications/dp/17935" target="_blank"><u>[IZA DP]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5275313" target="_blank"><u>[SSRN]</u></a>
@@ -142,9 +142,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   | Conventional strategies to identify monetary policy shocks rest on the implicit assumption that systematic monetary policy is time-invariant. In an environment with time-varying systematic monetary policy, we formally show that these strategies yield shocks that are contaminated, leading to bias in estimated impulse responses. In line with our theoretical results, we empirically show that conventional monetary policy shocks are predictable by measured fluctuations in systematic monetary policy. We propose new shocks that are purged of this predictability. Our preferred new shocks show that U.S.~monetary policy affects inflation and output more strongly and faster compared to the corresponding conventional shocks. |
   
 </details>
+<a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
 <a href="https://cepr.org/publications/dp19063" target="_blank"><u>[CEPR DP]</u></a> 
 <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/systematic-origins-monetary-policy-shocks" target="_blank"><u>[BdF WP]</u></a>
-<a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.pdf" target="_blank"><u>[Ungated]</u></a> 
 <a href="https://lukas-hack.github.io/files/mpshocks/MPshocks_HIM.xlsx" target="_blank"><u>[Shock data]</u></a>
 <a href="https://lukas-hack.github.io/files/mpshocks/HIM_Shocks.txt" target="_blank"><u>[BibTex]</u></a>
 
@@ -163,7 +163,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   | How quickly do firms adjust their plans and expectations after macroeconomic shocks? To answer this, we run a daily survey of German firms featuring randomized daily invitations. Thus, we receive daily survey responses with a stable composition of firms. We use this to construct daily time series and estimate the responses to three macroeconomic shock series. Our overarching finding is that firms respond within days to oil supply and monetary policy shocks during the post-Covid inflation surge. We further document heterogeneity across firm types and show that expectations are an important channel through which monetary policy transmits to firms’ plans. |
   
 </details>
-<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated]</u></a> 
+<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
 <a href="https://www.crctr224.de/research/discussion-papers/archive/dp593" target="_blank"><u>[CRC DP]</u></a> 
 <!--<a href="https://www.iza.org/publications/dp/17882/" target="_blank"><u>[IZA DP]</u></a>-->
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944988" target="_blank"><u>[SSRN]</u></a>
@@ -187,7 +187,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
   | Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition approach. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. Theoretically, I show how bracket creep affects labor supply decisions in a partial equilibrium framework and estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that bracket creep leads to a transitory steepening of the Phillips curve arising endogenously in response to a monetary shock. Such a steepening may alleviate the output costs of monetary disinflation. |
   
  </details>
- <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>[Ungated]</u></a> 
+ <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268667" target="_blank"><u>[SSRN]</u></a> 
  <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
  <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>[Reinhard Selten Award]</u></a>
