@@ -101,6 +101,28 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.txt" target="_blank"><u>[BibTex]</u></a>
 
 
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font> [abstract]
+
+  (August 2025) <br /> <b> <i>Review of Economic Dynamics, revise and resubmit </i> </b>  </summary>
+
+    
+  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition approach. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. Theoretically, I show how bracket creep affects labor supply decisions in a partial equilibrium framework and estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that bracket creep leads to a transitory steepening of the Phillips curve arising endogenously in response to a monetary shock. Such a steepening may alleviate the output costs of monetary disinflation. |
+  
+ </details>
+ <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268667" target="_blank"><u>[SSRN]</u></a> 
+ <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
+ <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>[Reinhard Selten Award]</u></a>
+ <a href="https://lukas-hack.github.io/files/bracketcreep/BracketCreep.txt" target="_blank"><u>[BibTex]</u></a>
+
+
 
 ----
 
@@ -172,26 +194,6 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <a href="https://lukas-hack.github.io/files/understandingfirms/dbd_instructions.txt" target="_blank"><u>[Daily Business Database]</u></a>
 
 
-----
-
-<details>
-  <summary markdown="span"><font color="blue">Progressive Income Taxation and Inflation: The Macroeconomic Effects of Bracket Creep</font> [abstract]
-
-  (August 2025)</summary>
-
-    
-  </summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | Under nominal progressive taxation, inflation drives up tax rates if the schedule is not adjusted, leading to bracket creep. To isolate bracket creep from other sources of tax rate changes, I propose a non-parametric decomposition approach. Applying the decomposition to German administrative tax records, I find sizeable bracket creep episodes. While the overall importance of bracket creep has decreased over time due to institutional changes, the post-Covid inflation surge led to a resurgence. Theoretically, I show how bracket creep affects labor supply decisions in a partial equilibrium framework and estimate a theory-consistent measure of bracket creep, the indexation gap, which is used to discipline a New Keynesian model with incomplete markets. The model predicts that bracket creep leads to a transitory steepening of the Phillips curve arising endogenously in response to a monetary shock. Such a steepening may alleviate the output costs of monetary disinflation. |
-  
- </details>
- <a href="https://lukas-hack.github.io/files/bracketcreep/HackPITI.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5268667" target="_blank"><u>[SSRN]</u></a> 
- <a href="https://lukas-hack.github.io/files/bracketcreep/faz_kalte_progression_published.pdf" target="_blank"><u>[FAZ Media Coverage (German)]</u></a>
- <a href="https://www.socialpolitik.de/en/reinhard-selten-award-2024" target="_blank"><u>[Reinhard Selten Award]</u></a>
- <a href="https://lukas-hack.github.io/files/bracketcreep/BracketCreep.txt" target="_blank"><u>[BibTex]</u></a>
 
 ----
 
