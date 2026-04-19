@@ -95,6 +95,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <a href="https://www.banque-france.fr/en/publications-and-statistics/publications/import-tariffs-and-systematic-response-monetary-policy" target="_blank"><u>[BdF WP]</u></a> 
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_appendix.pdf" target="_blank"><u>[Online Appendix]</u></a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5855664" target="_blank"><u>[SSRN]</u></a> 
+<a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP_SUERF.pdf" target="_blank"><u>[SUERF Policy Brief]</u></a> 
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.txt" target="_blank"><u>[BibTex]</u></a>
 
 
