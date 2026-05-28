@@ -201,6 +201,21 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ### Work in progress:
 
+ <details>
+  <summary markdown="span"><font color="blue">The Macroeconomic Consequences of Sovereign Credit Risk</font>
+
+    
+  (with <a href="https://sites.google.com/view/lukas-diebold/home" target="_blank">Lukas Diebold</a>)
+  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | working paper coming soon |
+  
+ </details>
+
+ ----
+
 
  <details>
   <summary markdown="span"><font color="blue">Sentiment Shocks and the Business Cycle:
