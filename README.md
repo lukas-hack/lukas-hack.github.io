@@ -126,6 +126,25 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 
+ <details>
+  <summary markdown="span"><font color="blue">The Macroeconomic Consequences of Sovereign Credit Risk</font>
+
+    
+  (with <a href="https://sites.google.com/view/lukas-diebold/home" target="_blank">Lukas Diebold</a>, June 2026)
+  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We propose a novel high-frequency identification strategy to isolate unanticipated changes in perceived sovereign credit risk for a large cross-section of economies. These surprises originate from sovereign credit rating announcements, are plausibly exogenous to fundamentals, and are not predictable using daily and monthly macroeconomic indicators. Yet they shift sovereign bond yields within two days and have considerable explanatory power for bond yields at lower frequencies. Our surprises combined with daily event-study methods show that increases in sovereign credit risk worsen stock prices and corporate financing conditions. Finally, using monthly local projections, we find that sovereign credit risk has adverse macroeconomic consequences, acting as a negative supply shock, which depresses economic activity but raises consumer prices. |
+  
+ </details>
+
+
+<a href="https://lukas-hack.github.io/files/sovereignrisk/SovereignRisk.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+<a href="https://lukas-hack.github.io/files/sovereignrisk/SovereignRisk.txt" target="_blank"><u>[BibTex]</u></a>
+
+
+ ----
 
 
 
@@ -201,20 +220,6 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ### Work in progress:
 
- <details>
-  <summary markdown="span"><font color="blue">The Macroeconomic Consequences of Sovereign Credit Risk</font>
-
-    
-  (with <a href="https://sites.google.com/view/lukas-diebold/home" target="_blank">Lukas Diebold</a>)
-  </summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | working paper coming soon |
-  
- </details>
-
- ----
 
 
  <details>
