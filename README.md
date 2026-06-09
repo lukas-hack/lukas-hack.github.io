@@ -127,7 +127,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
  <details>
-  <summary markdown="span"><font color="blue">The Macroeconomic Consequences of Sovereign Credit Risk</font>
+  <summary markdown="span"><font color="blue">The Macroeconomic Consequences of Sovereign Credit Risk</font> [abstract]
 
     
   (with <a href="https://sites.google.com/view/lukas-diebold/home" target="_blank">Lukas Diebold</a>, June 2026)
