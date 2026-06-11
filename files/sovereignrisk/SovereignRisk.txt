@@ -2,5 +2,5 @@
   author={Diebold, Lukas and Hack, Lukas},
   title={The Macroeconomic Consequences of Sovereign Credit Risk},
   year={2026},
-  type = {Available at SSRN}
+  type = {Available at SSRN 6903598}
 }
