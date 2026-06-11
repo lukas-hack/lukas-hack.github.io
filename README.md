@@ -141,6 +141,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 <a href="https://lukas-hack.github.io/files/sovereignrisk/SovereignRisk.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6903598" target="_blank"><u>[SSRN]</u></a> 
 <a href="https://lukas-hack.github.io/files/sovereignrisk/SovereignRisk.txt" target="_blank"><u>[BibTex]</u></a>
 
 
