@@ -99,6 +99,31 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 <a href="https://lukas-hack.github.io/files/tariffmp/TariffsMP.txt" target="_blank"><u>[BibTex]</u></a>
 
 
+
+
+ <details>
+  <summary markdown="span"><font color="blue">Understanding Firm Dynamics with Daily Data</font> [abstract]
+    
+  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, November 2025)  <br /> <b> <i>Quantitative Economics, revise and resubmit </i> </b> </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | How quickly do firms adjust their plans and expectations after macroeconomic shocks? To answer this, we run a daily survey of German firms featuring randomized daily invitations. Thus, we receive daily survey responses with a stable composition of firms. We use this to construct daily time series and estimate the responses to three macroeconomic shock series. Our overarching finding is that firms respond within days to oil supply and monetary policy shocks during the post-Covid inflation surge. We further document heterogeneity across firm types and show that expectations are an important channel through which monetary policy transmits to firms’ plans. |
+  
+</details>
+<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+<a href="https://www.crctr224.de/research/discussion-papers/archive/dp593" target="_blank"><u>[CRC DP]</u></a> 
+<!--<a href="https://www.iza.org/publications/dp/17882/" target="_blank"><u>[IZA DP]</u></a>-->
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944988" target="_blank"><u>[SSRN]</u></a>
+<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms_OnlineSupplement.pdf" target="_blank"><u>[Online Supplement]</u></a>
+<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.txt" target="_blank"><u>[BibTex]</u></a>
+<a href="https://lukas-hack.github.io/files/understandingfirms/dbd_instructions.txt" target="_blank"><u>[Daily Business Database]</u></a>
+
+
+
+----
+
+
 ----
 
 <details>
@@ -123,6 +148,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 ----
+
 
 
 
@@ -192,28 +218,6 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 
-
- <details>
-  <summary markdown="span"><font color="blue">Understanding Firm Dynamics with Daily Data</font> [abstract]
-    
-  (with <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, January 2025)</summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | How quickly do firms adjust their plans and expectations after macroeconomic shocks? To answer this, we run a daily survey of German firms featuring randomized daily invitations. Thus, we receive daily survey responses with a stable composition of firms. We use this to construct daily time series and estimate the responses to three macroeconomic shock series. Our overarching finding is that firms respond within days to oil supply and monetary policy shocks during the post-Covid inflation surge. We further document heterogeneity across firm types and show that expectations are an important channel through which monetary policy transmits to firms’ plans. |
-  
-</details>
-<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
-<a href="https://www.crctr224.de/research/discussion-papers/archive/dp593" target="_blank"><u>[CRC DP]</u></a> 
-<!--<a href="https://www.iza.org/publications/dp/17882/" target="_blank"><u>[IZA DP]</u></a>-->
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944988" target="_blank"><u>[SSRN]</u></a>
-<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms_OnlineSupplement.pdf" target="_blank"><u>[Online Supplement]</u></a>
-<a href="https://lukas-hack.github.io/files/understandingfirms/UnderstandingFirms.txt" target="_blank"><u>[BibTex]</u></a>
-<a href="https://lukas-hack.github.io/files/understandingfirms/dbd_instructions.txt" target="_blank"><u>[Daily Business Database]</u></a>
-
-
-
-----
 
 
 
