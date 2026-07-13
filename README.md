@@ -3,7 +3,7 @@
 
 ### Welcome!
 
-I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a> and at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. I will start as an Assistant Professor (with tenure-track) at the <a href="https://uni-tuebingen.de" target="_blank">University of Tübingen</a> this summer. ‚I am also a principal investigator at the <a href="https://dutchbusinesspanel.nl/" target="_blank">Dutch Business Panel</a>, a new survey initiative coordinated from Maastricht University School of Business and Economics. My main research fields are macroeconomics, monetary economics, economic history, and public economics.
+I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a> and at the <a href="https://www.vwl.uni-mannheim.de/en/" target="_blank">University of Mannheim</a>. I will start as an Assistant Professor (with tenure-track) at the <a href="https://uni-tuebingen.de" target="_blank">University of Tübingen</a> this summer. I am also a principal investigator at the <a href="https://dutchbusinesspanel.nl/" target="_blank">Dutch Business Panel</a>, a new survey initiative coordinated from Maastricht University School of Business and Economics. My main research fields are macroeconomics, monetary economics, economic history, and public economics.
 
 ----
 
