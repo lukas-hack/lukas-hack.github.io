@@ -1,0 +1,8 @@
+@techreport{WHP2026,
+  author={Wochner, Timo and Hack, Lukas and Potrafke Niklas},
+  title={Expert Inflation Preferences and the Evaluation
+of Monetary Policy},
+  year={2026},
+  type = {Mimeo}
+}
+

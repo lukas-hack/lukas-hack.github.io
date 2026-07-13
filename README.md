@@ -100,6 +100,21 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ----
 
+<details>
+  <summary markdown="span"><font color="blue">Expert Inflation Preferences and the Evaluation of Monetary Policy</font> [abstract]
+
+  (with <a href="https://sites.google.com/view/timo-wochner/start" target="_blank">Timo Wochner</a> and <a href="https://sites.google.com/view/niklas-potrafke" target="_blank">Niklas Potrafke</a>, July 2026) <br /> <b> <i>Journal of International Economics, revise and resubmit </i> </b> </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  |  What inflation rate should central banks target? Using two global surveys, we provide evidence on inflation preferences among economic experts---the group whose models and judgments inform monetary policy.  We document that, although experts’ preferred inflation rates are centered on central-bank targets, roughly half of them deviate (symmetrically) from the target. Cross-expert heterogeneity in preferences is driven by (i) beliefs about the costs of disinflation, (ii) normative views on the relative importance of different central bank objectives, and (iii) inflation narratives. Finally, we show that experts’ preferences influence their evaluations of monetary policy decisions, suggesting that experts' preferences are likely to matter for policymaking.|
+  
+ </details>
+<a href="https://lukas-hack.github.io/files/inflationpreferences/InflationPreferences.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+<a href="https://lukas-hack.github.io/files/inflationpreferences/InflationPreferences.txt" target="_blank"><u>[BibTex]</u></a>
+
+----
+
 
 
  <details>
