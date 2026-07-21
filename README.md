@@ -12,7 +12,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 ----
 
-### News and Upcoming Talks
+### News and Upcoming Talks:
 
 <details><summary markdown="span"><font size=2>I updated my paper  <a href="https://lukas-hack.github.io/files/sysmp/HIM_SysMP.pdf" target="_blank">Identification of Systematic Monetary Policy</a>
 </font></summary></details>
