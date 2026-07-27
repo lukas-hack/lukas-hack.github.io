@@ -54,7 +54,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 <!--<font color="gray"><i><small>&diams; Click title to see abstract.</small></i></font> --> 
-### Working Papers:
+### Working papers:
 <details>
   <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font> [abstract]
     
@@ -246,7 +246,7 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
 
-### Work in progress:
+### Selected work in progress:
 
 
 
