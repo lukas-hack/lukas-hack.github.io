@@ -251,8 +251,9 @@ I am a Post-Doctoral Researcher at <a href="https://ethz.ch/en.html" target="_bl
 
 
  <details>
-  <summary markdown="span"><font color="blue">Sentiment Shocks and the Business Cycle:
-Evidence from 150 Years of Industrial Disasters</font>
+  <summary markdown="span"><font color="blue">Do Professional Forecasters Care About Their Peers’ Forecasts?</font>
+
+  (with <a href="https://www.isaacbaley.com" target="_blank">Isaac Baley</a>, <a href="https://sites.google.com/view/lorapavlova/home" target="_blank">Lora Pavlova</a>, <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, and <a href="https://javierturen.wixsite.com/jturen" target="_blank">Javier Turen</a>)</summary>
     
   </summary>
   
@@ -269,7 +270,7 @@ Evidence from 150 Years of Industrial Disasters</font>
   <details>
   <summary markdown="span"><font color="blue">Reviving Lost Voices: Economic Expectations from Historical Diaries</font>
     
-  (with <a href="https://sites.google.com/view/lukas-diebold/home" target="_blank">Lukas Diebold</a> and <a href="https://sites.google.com/view/timo-wochner/research" target="_blank">Timo Wochner</a>)</summary>
+  (with <a href="https://sites.google.com/view/lukas-diebold/home" target="_blank">Lukas Diebold</a>, <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://it.linkedin.com/in/leonkriesmair&ved=2ahUKEwiAtr7Mr_KVAxXAB9sEHVMlMzYQFnoECCAQAQ&usg=AOvVaw0Lp4N-SI5yH6oOwZmGp9CP" target="_blank">Leon Kriesmair</a>, and <a href="https://sites.google.com/view/timo-wochner/research" target="_blank">Timo Wochner</a>)</summary>
   
   | **Abstract**          |
   |:---------------------------|
