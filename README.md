@@ -3,7 +3,7 @@
 
 ### Welcome!
 
-I am an Assistant Professor (with tenure-track) at the <a href="https://uni-tuebingen.de" target="_blank">University of Tübingen</a>
+I am an Assistant Professor (with tenure-track) at the <a href="https://uni-tuebingen.de" target="_blank">University of Tübingen</a>.
 
 I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank">ETH Zürich</a> and a Principal Investigator at the <a href="https://dutchbusinesspanel.nl/" target="_blank">Dutch Business Panel</a>, a new survey initiative coordinated from Maastricht University School of Business and Economics. My main research fields are macroeconomics, monetary economics, economic history, and public economics.
 
