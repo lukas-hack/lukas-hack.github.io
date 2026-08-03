@@ -47,6 +47,7 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
   |  What inflation rate should central banks target? Using two global surveys, we provide evidence on inflation preferences among economic experts---the group whose models and judgments inform monetary policy.  We document that, although experts’ preferred inflation rates are centered on central-bank targets, roughly half of them deviate (symmetrically) from the target. Cross-expert heterogeneity in preferences is driven by (i) beliefs about the costs of disinflation, (ii) normative views on the relative importance of different central bank objectives, and (iii) inflation narratives. Finally, we show that experts’ preferences influence their evaluations of monetary policy decisions, suggesting that experts' preferences are likely to matter for policymaking.|
   
  </details>
+<a href="https://www.sciencedirect.com/science/article/pii/S0022199626001078" target="_blank"><u>[Published Version]</u></a>
 <a href="https://lukas-hack.github.io/files/inflationpreferences/InflationPreferences.pdf" target="_blank"><u>[Ungated]</u></a> 
 <a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/expert-inflation-preferences-and-evaluation-monetary-policy" target="_blank"><u>[CESifo WP]</u></a>
 <a href="https://lukas-hack.github.io/files/inflationpreferences/InflationPreferences.txt" target="_blank"><u>[BibTex]</u></a>
