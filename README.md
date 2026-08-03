@@ -40,7 +40,7 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
 <details>
   <summary markdown="span"><font color="blue">Expert Inflation Preferences and the Evaluation of Monetary Policy</font> [abstract]
 
-  (with <a href="https://sites.google.com/view/timo-wochner/start" target="_blank">Timo Wochner</a> and <a href="https://sites.google.com/view/niklas-potrafke" target="_blank">Niklas Potrafke</a>, July 2026) <br /> <b> <i>Journal of International Economics, accepted </i> </b> </summary>
+  (with <a href="https://sites.google.com/view/timo-wochner/start" target="_blank">Timo Wochner</a> and <a href="https://sites.google.com/view/niklas-potrafke" target="_blank">Niklas Potrafke</a>, July 2026) <br /> <b> <i>Journal of International Economics </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
