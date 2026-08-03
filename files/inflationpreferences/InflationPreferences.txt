@@ -1,7 +1,12 @@
 @article{WHP2026,
-  author={Wochner, Timo and Hack, Lukas and Potrafke Niklas},
-  title={Expert Inflation Preferences and the Evaluation of Monetary Policy},
-  journal={Journal of International Economics},
-  year={2026},
-  publisher={Elsevier}
-}
+  title = {Expert inflation preferences and the evaluation of monetary policy},
+  journal = {Journal of International Economics},
+  pages = {104317},
+  year = {2026},
+  issn = {0022-1996},
+  doi = {https://doi.org/10.1016/j.jinteco.2026.104317},
+  url = {https://www.sciencedirect.com/science/article/pii/S0022199626001078},
+  author = {Timo Wochner and Lukas Hack and Niklas Potrafke},
+  keywords = {Inflation preferences, Optimal inflation rate, Economic experts, Monetary policy},
+  abstract = {What inflation rate should central banks target? Using two global surveys, we provide evidence on inflation preferences among economic experts—the group whose models and judgments inform monetary policy. We document that, although experts’ preferred inflation rates are centered on central-bank targets, roughly half of them deviate (symmetrically) from the target. Cross-expert heterogeneity in preferences is driven by (i) beliefs about the costs of disinflation, (ii) normative views on the relative importance of different central bank objectives, and (iii) inflation narratives. Finally, we show that experts’ preferences influence their evaluations of monetary policy decisions, suggesting that experts’ preferences are likely to matter for policymaking.}
+  }
