@@ -106,8 +106,8 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
 <details>
   <summary markdown="span"><font color="blue">Loanly Governments</font> [abstract]
 
-  (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, May 2026) <br />
-  <b> <i>In preparation for the NBER International Seminar on Macroeconomics</i> </b>
+  (with <a href="https://sites.google.com/view/lukas-diebold" target="_blank">Lukas Diebold</a>, August 2026) <br />
+  <b> <i>Prepared for the NBER International Seminar on Macroeconomics</i> </b>
   </summary>
   
   | **Abstract**          |
