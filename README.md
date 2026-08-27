@@ -254,7 +254,7 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
 
 
  <details>
-  <summary markdown="span"><font color="blue">Do Professional Forecasters Care About Their Peers’ Forecasts?</font>
+  <summary markdown="span"><font color="blue">Frictional Forecasts</font>
 
   (with <a href="https://www.isaacbaley.com" target="_blank">Isaac Baley</a>, <a href="https://sites.google.com/view/lorapavlova/home" target="_blank">Lora Pavlova</a>, <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, and <a href="https://javierturen.wixsite.com/jturen" target="_blank">Javier Turen</a>)</summary>
     
