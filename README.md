@@ -85,7 +85,7 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
 <details>
   <summary markdown="span"><font color="blue">Import Tariffs and the Systematic Response of Monetary Policy</font> [abstract]
 
-  (with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>, July 2026) <br /> <b> <i>Review of Economics and Statistics, revise and resubmit </i> </b> </summary>
+  (with <a href="https://sites.google.com/view/alessandrofranconi" target="_blank">Alessandro Franconi</a>, July 2026) <br /> <b> <i>Review of Economics and Statistics, cond. accepted </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
