@@ -62,7 +62,7 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
   <summary markdown="span"><font color="blue">Identification of Systematic Monetary Policy</font> [abstract]
     
   (with <a href="https://sites.google.com/site/istrefiklodiana/" target="_blank">Klodiana Istrefi</a> and <a href="https://matthias-meier-econ.github.io/" target="_blank">Matthias Meier</a>, October 2026) <br />
-  <b> <i>Review of Economic Studies, revise and resubmit </i> </b> </summary>
+  <b> <i>Review of Economic Studies, cond. accepted </i> </b> </summary>
   
   | **Abstract**          |
   |:---------------------------|
