@@ -33,9 +33,6 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
 
 ### Publications:
 
-
-----
-
 <details>
   <summary markdown="span"><font color="blue">Import Tariffs and the Systematic Response of Monetary Policy</font> [abstract]
 
