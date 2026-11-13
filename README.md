@@ -253,6 +253,23 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
 
 
  <details>
+  <summary markdown="span"><font color="blue">The Macroeconomic Eﬀects of Tariﬀ Announcements</font>
+
+  (with <a href="https://sites.google.com/view/alessandrofranconi/home" target="_blank">Alessandro Franconi</a> and <a href="https://fr.linkedin.com/in/louise-gatty-a94144222" target="_blank">Louise Gatty</a>)</summary>
+    
+  </summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | We propose a novel narrative high-frequency identification strategy to study the macroeconomic eﬀects of tariﬀ announcements during the current trade war era. From the universe of LSEG breaking-news headlines since January 2025, we narratively identify 56 U.S. tariﬀ announcements and measure their unanticipated component as the high-frequency revision in the bilateral exchange rates of the targeted trading partners. Using daily local projections, we show that tariﬀ announcements raise the aggregate statutory tariﬀ rate within a few days and push up retail prices, more persistently for imported than for domestic goods. The resulting pass-through of statutory tariﬀs into imported retail prices is about 20 percent. Consumer spending and equity prices fall. These inflationary and contractionary eﬀects point to tariﬀ announcements acting as adverse supply shocks. They also raise various measures of uncertainty and, contrary to standard theory, weaken the U.S. dollar. |
+  
+ </details>
+ <a href="https://afranconi.github.io/academic-papers/FGH_tariffs.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+
+
+
+
+ <details>
   <summary markdown="span"><font color="blue">Frictional Forecasts</font>
 
   (with <a href="https://www.isaacbaley.com" target="_blank">Isaac Baley</a>, <a href="https://sites.google.com/view/lorapavlova/home" target="_blank">Lora Pavlova</a>, <a href="https://rostam-afschar.de/" target="_blank">Davud Rostam-Afschar</a>, and <a href="https://javierturen.wixsite.com/jturen" target="_blank">Javier Turen</a>)</summary>
@@ -261,9 +278,11 @@ I am also a Guest Researcher at <a href="https://ethz.ch/en.html" target="_blank
   
   | **Abstract**          |
   |:---------------------------|
-  | working paper coming soon |
+  | We argue that reported predictions of professional forecasters are not pure measures of true beliefs because they are subject to reporting frictions; they constitute frictional forecasts. First, forecasts are lumpy. Zero revisions are frequent and non-zero revisions are large. Second, asking professional forecasters directly reveals that reporting frictions rationalize lumpiness. Third, via a novel RCT, we obtain causal evidence in favor of strategic reporting behavior. Finally, we show how both lumpiness and strategic reporting interact. |
   
  </details>
+ <a href="https://www.isaacbaley.com/uploads/6/7/3/5/6735245/frictional_forecasts_aug2026.pdf" target="_blank"><u>[Ungated (Current Version)]</u></a> 
+
 
  ----
 
